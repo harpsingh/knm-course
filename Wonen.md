@@ -1,108 +1,34 @@
 # Thema 1: Wonen (Housing)
 
-Dit thema gaat over het vinden, kopen en bewonen van een huis in Nederland. Het behandelt ook nutsvoorzieningen en afvalscheiding.
-(This theme is about finding, buying, and living in a house in the Netherlands. It also covers utilities and waste separation.)
+Dit thema behandelt alles wat je moet weten over wonen in Nederland: van het vinden van een huurwoning tot het kopen van een huis en het regelen van gas, water en licht.
+(This theme covers everything you need to know about living in the Netherlands: from finding a rental home to buying a house and arranging utilities.)
 
 ## 1. Een Huis Huren (Renting a House)
 
-### Belangrijke Begrippen (Important Terms)
 | Nederlands | English |
 | :--- | :--- |
-| **Woningbouwvereniging** | **Housing association** (organization that builds and rents houses) |
-| **Huurcontract** | **Rental contract** (written agreement between tenant and landlord) |
-| **Huurder** | **Tenant** (person who rents a house) |
-| **Verhuurder** | **Landlord** (person or organization that rents out a house) |
-| **Huurprijs** | **Rent price** (the amount you pay to live in the house) |
-| **Servicekosten** | **Service charges** (extra costs for cleaning, elevator, etc.) |
-| **Onderhoud** | **Maintenance** (keeping the house in good condition) |
-| **Huurcommissie** | **Rent Tribunal** (organization that helps with rental disputes) |
-| **Huurtoeslag** | **Rent subsidy** (financial help from the government for rent) |
-| **Sociale huurwoning** | **Social housing** (cheaper houses for people with lower incomes) |
-| **Vrije sector** | **Private sector** (more expensive houses without rent limits) |
-| **Urgentieverklaring** | **Urgency certificate** (statement giving someone priority for a house) |
+| **Zoeken en Inschrijven**<br><br>De meeste mensen in Nederland huren een woning via een **woningbouwvereniging** (ook wel **woningcorporatie** genoemd). Dit zijn organisaties die **sociale huurwoningen** verhuren. Deze woningen hebben een maximale huurprijs en zijn bedoeld voor mensen met een lager inkomen. Omdat er veel mensen wachten, moet je vaak lang wachten op een huis. Soms kun je een **urgentieverklaring** krijgen als je in nood zit, zodat je voorrang krijgt. Heb je een hoger inkomen? Dan zoek je vaak in de **vrije sector**. Deze huren zijn hoger en je hebt geen recht op huurtoeslag. | **Searching and Registering**<br><br>Most people in the Netherlands rent a home through a **housing association** (also called **housing corporation**). These are organizations that rent out **social housing**. These homes have a maximum rent price and are intended for people with a lower income. Because many people are waiting, you often have to wait a long time for a house. Sometimes you can get an **urgency certificate** if you are in need, so you get priority. Do you have a higher income? Then you often look in the **private sector**. These rents are higher and you are not entitled to rent benefit. |
+| **Het Contract en de Kosten**<br><br>Als je een huis vindt, teken je een **huurcontract**. Hierin staan de afspraken tussen jou (de **huurder**) en de eigenaar (de **verhuurder**). In het contract staat de **huurprijs** (de kale huur) en de **servicekosten**. Servicekosten betaal je voor algemene dingen, zoals de schoonmaak van de gang of de lift. Heb je een laag inkomen en een hoge huur? Dan kun je misschien **huurtoeslag** krijgen van de **Belastingdienst**. Dit is geld van de overheid om je te helpen de huur te betalen. | **The Contract and Costs**<br><br>When you find a house, you sign a **rental contract**. This contains the agreements between you (the **tenant**) and the owner (the **landlord**). The contract states the **rent price** (basic rent) and the **service charges**. You pay service charges for general things, such as cleaning the hallway or the elevator. Do you have a low income and high rent? Then you might be able to get **rent subsidy** from the **Tax Authorities**. This is money from the government to help you pay the rent. |
+| **Rechten en Plichten**<br><br>In het huurcontract staat ook wie welk **onderhoud** moet doen. Meestal doet de huurder kleine klusjes (zoals schilderen binnen) en doet de verhuurder de grote reparaties (zoals het dak of de keuken). Heb je ruzie met je verhuurder over de prijs of het onderhoud? Dan kun je de **Huurcommissie** om hulp vragen. Zij zijn een onafhankelijke organisatie die beslist wie er gelijk heeft. | **Rights and Duties**<br><br>The rental contract also states who must do which **maintenance**. Usually, the tenant does small jobs (such as painting inside) and the landlord does the major repairs (such as the roof or kitchen). Do you have a dispute with your landlord about the price or maintenance? Then you can ask the **Rent Tribunal** for help. They are an independent organization that decides who is right. |
 
-### Informatie (Information)
+## 2. Een Huis Kopen (Buying a House)
+
 | Nederlands | English |
 | :--- | :--- |
-| **Een huurcontract tekenen**: Hierin staan de **huurprijs**, de startdatum en regels voor onderhoud. | **Signing a rental contract**: It states the **rent price**, start date, and rules for maintenance. |
-| **Huurtoeslag**: U vraagt dit aan bij de **Belastingdienst** als uw inkomen laag is. | **Rent subsidy**: You apply for this at the **Tax Authorities** if your income is low. |
-| **Huurproblemen**: Bij problemen met uw verhuurder kunt u de **Huurcommissie** om hulp vragen. | **Rental problems**: In case of problems with your landlord, you can ask the **Rent Tribunal** for help. |
-| **Reparaties**: Kleine reparaties doet de **huurder** zelf. Groot onderhoud is voor de **verhuurder**. | **Repairs**: The **tenant** does small repairs themselves. Major maintenance is for the **landlord**. |
+| **De Zoektocht**<br><br>Een huis kopen begint met kijken hoeveel je kunt lenen. Dit hangt af van je inkomen. De meeste mensen sluiten hiervoor een **hypotheek** af bij de bank. Je kunt een **hypotheekadviseur** vragen om te helpen berekenen wat je budget is. Als je weet wat je kunt betalen, ga je zoeken op websites of via een **makelaar**. Een makelaar helpt je bij het zoeken en onderhandelen. Als je een leuk huis ziet, maak je een afspraak voor een **bezichtiging** om te gaan kijken. | **The Search**<br><br>Buying a house starts with checking how much you can borrow. This depends on your income. Most people take out a **mortgage** with the bank for this. You can ask a **mortgage advisor** to help calculate your budget. When you know what you can pay, you search on websites or through a **real estate agent**. A real estate agent helps you search and negotiate. If you see a nice house, you make an appointment for a **viewing** to go and look. |
+| **Kopen en de Notaris**<br><br>Wil je het huis hebben? Dan doe je een **bod** (je noemt een prijs). Als de verkoper akkoord is, tekenen jullie het **koopcontract**. In Nederland heb je daarna nog drie dagen wettelijke **bedenktijd**. Dat betekent dat je binnen drie dagen de koop nog mag annuleren zonder boete. Daarna ga je naar de **notaris**. De notaris is de enige die de officiële overdracht van het huis mag regelen. Je betaalt bij de notaris ook de **kosten koper** (de belasting en kosten voor de overdracht). | **Buying and the Notary**<br><br>Do you want the house? Then you make an **offer** (you name a price). If the seller agrees, you sign the **purchase contract**. In the Netherlands, you then have three days of statutory **cooling-off period**. This means you can still cancel the purchase within three days without a penalty. After that, you go to the **notary**. The notary is the only one who can arrange the official transfer of the house. You also pay the **buyer's costs** at the notary (the tax and costs for the transfer). |
+| **Belastingvoordeel**<br><br>Als je een huis koopt en daarvoor een lening (hypotheek) afsluit, moet je elke maand **rente** betalen aan de bank. In Nederland mag je deze rente aftrekken van je inkomen bij de belastingaangifte. Dit heet de **hypotheekrenteaftrek**. Hierdoor betaal je minder inkomstenbelasting. | **Tax Benefit**<br><br>If you buy a house and take out a loan (mortgage) for it, you have to pay **interest** to the bank every month. In the Netherlands, you can deduct this interest from your income in your tax return. This is called the **mortgage interest deduction**. Because of this, you pay less income tax. |
 
----
+## 3. Gas, Water en Licht (Utilities)
 
-## 2. Een Huis Kopen in 9 Stappen (Buying a House in 9 Steps)
-
-### Belangrijke Begrippen (Important Terms)
 | Nederlands | English |
 | :--- | :--- |
-| **Hypotheek** | **Mortgage** (a loan from the bank to buy a house) |
-| **Hypotheekadviseur** | **Mortgage advisor** (person who helps with getting a mortgage) |
-| **Hypotheekrenteaftrek** | **Mortgage interest deduction** (tax benefit where you deduct interest from income tax) |
-| **Kosten koper (k.k.)** | **Buyer's costs** (extra costs when buying a house, like notary and transfer tax) |
-| **Makelaar** | **Real estate agent** (person who helps buy or sell houses) |
-| **Notaris** | **Notary** (official who legally transfers the house ownership) |
-| **Koopcontract** | **Purchase contract** (official agreement between buyer and seller) |
-| **Bedenktijd** | **Cooling-off period** (usually 3 days after signing where you can cancel without penalty) |
-| **Taxatie** | **Valuation/Appraisal** (estimating the value of the house) |
-| **Bouwkundige keuring** | **Structural inspection** (check for technical defects in the house) |
+| **Kiezen en Betalen**<br><br>In Nederland kies je zelf je **energieleverancier** voor stroom en gas. Water regel je niet zelf; dat gaat via een vast waterbedrijf in jouw regio. Je betaalt voor energie elke maand een **voorschot**. Dit is een schatting van wat je gaat gebruiken. Aan het einde van het jaar krijg je de **jaarafrekening**. Heb je minder gebruikt dan je voorschot? Dan krijg je geld terug. Heb je meer gebruikt? Dan moet je bijbetalen. Je kunt kiezen voor een **vast contract** (prijs staat vast voor bijv. 1 jaar) of een **variabel contract** (prijs verandert elk half jaar). | **Choosing and Paying**<br><br>In the Netherlands, you choose your own **energy supplier** for electricity and gas. You do not arrange water yourself; that goes through a fixed water company in your region. You pay an **advance payment** for energy every month. This is an estimate of what you will use. At the end of the year, you receive the **annual statement**. Did you use less than your advance? Then you get money back. Did you use more? Then you have to pay extra. You can choose a **fixed contract** (price is fixed for e.g., 1 year) or a **variable contract** (price changes every six months). |
+| **De Meterkast**<br><br>In je huis zit een **meterkast**. Hierin zitten de meters die bijhouden hoeveel gas, water en stroom je gebruikt. Je moet soms zelf de **meterstand** doorgeven aan de leverancier, of ze lezen dit op afstand uit met een slimme meter. De **netbeheerder** is het bedrijf dat de kabels en leidingen onderhoudt; de energieleverancier stuurt alleen de rekening voor het verbruik. | **The Meter Cupboard**<br><br>There is a **meter cupboard** in your house. It contains the meters that track how much gas, water, and electricity you use. Sometimes you have to report the **meter reading** to the supplier yourself, or they read it remotely with a smart meter. The **grid operator** is the company that maintains the cables and pipes; the energy supplier only sends the bill for usage. |
 
-### Het Stappenplan (The Step-by-Step Plan)
+## 4. Afval en Milieu (Waste and Environment)
+
 | Nederlands | English |
 | :--- | :--- |
-| 1. **Budget bepalen**: Hoeveel kun je lenen en per maand betalen? | 1. **Determine budget**: How much can you borrow and pay per month? |
-| 2. **Woonwensen**: Wat voor huis zoek je? (kamers, tuin, balkon). | 2. **Housing wishes**: What kind of house are you looking for? (rooms, garden, balcony). |
-| 3. **Zoeken**: Kijk op websites zoals funda.nl en rijd langs huizen. | 3. **Search**: Look on websites like funda.nl and drive by houses. |
-| 4. **Bezichtiging**: Maak een afspraak met de **makelaar** om het huis te bekijken. | 4. **Viewing**: Make an appointment with the **real estate agent** to view the house. |
-| 5. **Bod doen**: Je biedt een prijs. De verkoper kan een **tegenbod** doen (onderhandelen). | 5. **Make an offer**: You offer a price. The seller can make a **counteroffer** (negotiate). |
-| 6. **Koopcontract tekenen**: Als het bod is geaccepteerd, teken je het contract. Je hebt nu **bedenktijd**. | 6. **Sign purchase contract**: If the offer is accepted, you sign the contract. You now have a **cooling-off period**. |
-| 7. **Financiering regelen**: Je sluit een **hypotheek** af bij de bank. | 7. **Arrange financing**: You take out a **mortgage** with the bank. |
-| 8. **Naar de notaris**: Je betaalt de koopsom en tekent de officiële akte. Je krijgt de sleutel! | 8. **To the notary**: You pay the purchase price and sign the official deed. You get the key! |
-| 9. **Verhuizen**: Je kunt naar je nieuwe woning. | 9. **Move**: You can move to your new home. |
-
----
-
-## 3. Gas, Water, Licht en Internet (Utilities)
-
-### Belangrijke Begrippen (Important Terms)
-| Nederlands | English |
-| :--- | :--- |
-| **Energieleverancier** | **Energy supplier** (company that sells you electricity and gas) |
-| **Netbeheerder** | **Grid operator** (company that transports energy to your house) |
-| **Meterkast** | **Meter cupboard** (where the meters for gas, water, and electricity are) |
-| **Meterstand** | **Meter reading** (the number on the meter showing your usage) |
-| **Jaarafrekening** | **Annual statement** (bill showing actual usage vs. what you paid) |
-| **Voorschot** | **Advance payment** (estimated monthly amount you pay) |
-| **Vast contract** | **Fixed contract** (price stays the same for a set period) |
-| **Variabel contract** | **Variable contract** (price can change, usually twice a year) |
-
-### Informatie (Information)
-| Nederlands | English |
-| :--- | :--- |
-| Je kiest zelf een **energieleverancier** en een **internetprovider**. | You choose an **energy supplier** and an **internet provider** yourself. |
-| Je betaalt elke maand een **voorschot**. Na een jaar krijg je de **jaarafrekening**. | You pay an **advance payment** every month. After a year, you get the **annual statement**. |
-| Als je minder hebt verbruikt dan geschat, krijg je geld terug. | If you consumed less than estimated, you get money back. |
-
----
-
-## 4. Afval en Schoon (Waste and Cleanliness)
-
-### Belangrijke Begrippen (Important Terms)
-| Nederlands | English |
-| :--- | :--- |
-| **Afval scheiden** | **Separating waste** (sorting waste into plastic, paper, glass, etc.) |
-| **Grofvuil** | **Bulky waste** (large items like furniture that don't fit in the bin) |
-| **Kliko / Container** | **Wheelie bin** (large bin for waste at your house) |
-| **Milieustraat** | **Recycling center** (place to bring bulky or chemical waste) |
-| **Afvalkalender** | **Waste calendar** (schedule showing when waste is collected) |
-| **Statiegeld** | **Deposit money** (money you get back when returning plastic bottles/cans) |
-| **Kringloopwinkel** | **Thrift store** (shop for second-hand items) |
-| **GFT** | **Organic waste** (Groente, Fruit en Tuinafval) |
-
-### Regels (Rules)
-| Nederlands | English |
-| :--- | :--- |
-| In Nederland moet je **afval scheiden**. Glas gaat in de glasbak, papier in de papierbak. | In the Netherlands, you must **separate waste**. Glass goes in the bottle bank, paper in the paper bin. |
-| Voor **restafval** en GFT zijn er vaak aparte containers of ophaaldagen. | For **residual waste** and organic waste, there are often separate containers or collection days. |
-| **Grofvuil** (zoals een oude bank) breng je naar de **milieustraat** of laat je ophalen. | **Bulky waste** (like an old sofa) you take to the **recycling center** or have it picked up. |
-| Op plastic flessen en blikjes zit vaak **statiegeld**. Lever ze in bij de supermarkt. | Plastic bottles and cans often have a **deposit**. Return them at the supermarket. |
+| **Afval Scheiden**<br><br>Nederland is een klein en vol land, dus het milieu is belangrijk. Gemeentes willen zo min mogelijk afval verbranden. Daarom moet je je **afval scheiden**. Papier gaat in de papierbak, glas in de glasbak en groente/fruit in de GFT-bak. Plastic en drinkpakken worden vaak apart ingezameld. Op kleine plastic flesjes en blikjes zit **statiegeld**. Als je deze inlevert bij de supermarkt, krijg je 15 of 25 cent terug. | **Separating Waste**<br><br>The Netherlands is a small and crowded country, so the environment is important. Municipalities want to burn as little waste as possible. That is why you must **separate your waste**. Paper goes in the paper bin, glass in the bottle bank, and vegetables/fruit in the organic waste bin. Plastic and cartons are often collected separately. Small plastic bottles and cans have a **deposit**. If you return these to the supermarket, you get 15 or 25 cents back. |
+| **Grofvuil en de Milieustraat**<br><br>Afval dat niet in de container past, heet **grofvuil** (bijvoorbeeld een kapotte stoel of een oud tapijt). Dit mag je niet zomaar op straat zetten. Je moet het naar de **milieustraat** (afvalstation) van de gemeente brengen. Heb je geen auto? Dan kun je vaak een afspraak maken met de gemeente om het grofvuil op te laten halen. Spullen die nog goed zijn, kun je naar de **kringloopwinkel** brengen. | **Bulky Waste and the Recycling Center**<br><br>Waste that does not fit in the bin is called **bulky waste** (for example, a broken chair or an old carpet). You cannot just put this on the street. You must take it to the municipality's **recycling center** (waste station). Do you not have a car? Then you can often make an appointment with the municipality to have the bulky waste picked up. Items that are still good can be taken to the **thrift store**. |

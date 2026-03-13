@@ -1,82 +1,34 @@
 # Thema 2: Omgaan met anderen (Interacting with others)
 
-Dit thema gaat over communicatie, sociale gewoontes, feesten en de normen en waarden in Nederland.
-(This theme is about communication, social customs, holidays, and the norms and values in the Netherlands.)
+Dit thema gaat over hoe mensen in Nederland met elkaar omgaan. Het behandelt communicatie, normen en waarden, en belangrijke tradities.
+(This theme is about how people in the Netherlands interact with each other. It covers communication, norms and values, and important traditions.)
 
 ## 1. Communicatie en Feedback (Communication and Feedback)
 
-### Belangrijke Begrippen (Important Terms)
 | Nederlands | English |
 | :--- | :--- |
-| **Direct communiceren** | **Direct communication** (saying exactly what you mean) |
-| **Feedback** | **Feedback** (comments on what goes well and what can be improved) |
-| **Misverstand** | **Misunderstanding** (a situation where people don't understand each other well) |
-| **Afspraak maken** | **Making an appointment** (scheduling a time to meet) |
+| **Directheid**<br><br>Veel Nederlanders communiceren **direct**. Dat betekent dat ze eerlijk en duidelijk zeggen wat ze vinden of bedoelen. Als iemand vraagt "Vind je mijn trui mooi?" en het antwoord is "Nee, niet echt", dan is dat niet onbeleefd bedoeld. Het is juist bedoeld als eerlijkheid. Nederlanders verwachten ook dat jij duidelijk bent. Als je "nee" bedoelt, zeg dan "nee". Draai er niet omheen. | **Directness**<br><br>Many Dutch people communicate **directly**. That means they say honestly and clearly what they think or mean. If someone asks "Do you like my sweater?" and the answer is "No, not really", then that is not meant to be impolite. It is actually meant as honesty. Dutch people also expect you to be clear. If you mean "no", say "no". Do not beat around the bush. |
+| **Feedback op het Werk**<br><br>Op de werkvloer is het heel normaal om **feedback** te geven en te krijgen. Als je leidinggevende zegt dat je iets fout doet, is dat geen kritiek op jou als persoon. Het is bedoeld om je te helpen je werk beter te doen. Je mag ook feedback geven aan je baas. In Nederland is de afstand tussen de baas en de werknemer vaak klein. Je mag je mening geven, als je dat maar beleefd doet. | **Feedback at Work**<br><br>In the workplace, it is very normal to give and receive **feedback**. If your supervisor says you are doing something wrong, that is not criticism of you as a person. It is meant to help you do your work better. You can also give feedback to your boss. In the Netherlands, the distance between the boss and the employee is often small. You may give your opinion, as long as you do it politely. |
+| **Afspraken Maken**<br><br>Nederlanders houden van plannen. Spontaniteit is soms lastig. Wil je bij iemand op bezoek gaan? Bel of app dan eerst om een **afspraak** te maken. Kom niet zomaar langs, want dan hebben mensen misschien geen tijd. Ook voor zakelijke dingen moet je altijd een afspraak inplannen. Op tijd komen is erg belangrijk. | **Making Appointments**<br><br>Dutch people love planning. Spontaneity is sometimes difficult. Do you want to visit someone? Call or app first to **make an appointment**. Do not just drop by, because people might not have time. You must also always schedule an appointment for business matters. Arriving on time is very important. |
 
-### Informatie (Information)
+## 2. Normen en Waarden (Norms and Values)
+
 | Nederlands | English |
 | :--- | :--- |
-| Veel Nederlanders zijn **direct**. Ze zeggen eerlijk wat ze bedoelen. Dit is niet onbeleefd bedoeld. | Many Dutch people are **direct**. They honestly say what they mean. This is not meant to be impolite. |
-| Op het werk krijg je vaak **feedback**. Je leidinggevende zegt wat je moet verbeteren om je te helpen. | At work, you often receive **feedback**. Your supervisor says what you need to improve to help you. |
-| Nederlanders plannen veel. Wil je iemand spreken? Maak dan eerst een **afspraak**. | Dutch people plan a lot. Do you want to speak to someone? Then **make an appointment** first. |
+| **Gelijkheid en Vrijheid**<br><br>Een belangrijke waarde in de Nederlandse **Grondwet** is **gelijkheid**. Iedereen is gelijk, ongeacht geslacht, geloof of afkomst. Mannen en vrouwen hebben dezelfde rechten. Ze werken allebei en zorgen allebei voor de kinderen. Ook is er **vrijheid** van godsdienst en meningsuiting. Je mag geloven wat je wilt en zeggen wat je denkt, zolang je niemand discrimineert. **Discriminatie** is streng verboden. | **Equality and Freedom**<br><br>An important value in the Dutch **Constitution** is **equality**. Everyone is equal, regardless of gender, religion, or background. Men and women have the same rights. They both work and both take care of the children. There is also **freedom** of religion and expression. You may believe what you want and say what you think, as long as you do not discriminate against anyone. **Discrimination** is strictly forbidden. |
+| **LHBTIQ+ Acceptatie**<br><br>In Nederland mag je houden van wie je wilt. **Homoseksualiteit** is geaccepteerd. Twee mannen of twee vrouwen kunnen met elkaar trouwen en kinderen krijgen. Dit is vastgelegd in de wet. Mensen die **LHBTIQ+** zijn (Lesbisch, Homoseksueel, Biseksueel, Transgender, Intersekse) moeten zich veilig kunnen voelen. Hand in hand lopen met iemand van hetzelfde geslacht is normaal. | **LGBTIQ+ Acceptance**<br><br>In the Netherlands, you can love who you want. **Homosexuality** is accepted. Two men or two women can marry each other and have children. This is enshrined in law. People who are **LGBTIQ+** (Lesbian, Gay, Bisexual, Transgender, Intersex) must be able to feel safe. Walking hand in hand with someone of the same gender is normal. |
+| **Zelfbeschikking**<br><br>In Nederland vinden mensen het belangrijk dat je zelf keuzes maakt over je leven. Dit heet zelfbeschikking. Jij kiest welke kleding je draagt, wie je partner is en of je wel of niet gelovig bent. Andere mensen (ook familie) mogen die keuze niet voor jou maken. | **Self-determination**<br><br>In the Netherlands, people think it is important that you make your own choices about your life. This is called self-determination. You choose which clothes you wear, who your partner is, and whether or not you are religious. Other people (including family) are not allowed to make that choice for you. |
 
----
+## 3. Tradities en Feestdagen (Traditions and Holidays)
 
-## 2. Vrijheid en Gelijkheid (Freedom and Equality)
-
-### Belangrijke Begrippen (Important Terms)
 | Nederlands | English |
 | :--- | :--- |
-| **Gelijkheid** | **Equality** (everyone has the same rights and opportunities) |
-| **Vrijheid** | **Freedom** (you can determine what you want to do yourself) |
-| **LHBTIQ+** | **LGBTIQ+** (Lesbian, Gay, Bisexual, Transgender, Intersex, etc.) |
-| **Homoseksualiteit** | **Homosexuality** (preference for someone of the same gender) |
-| **Samenwonen** | **Cohabitation** (living together without being married) |
-| **Discriminatie** | **Discrimination** (treating people differently/unfairly) |
-| **Grondwet** | **Constitution** (the most important law where rights are written) |
-
-### Normen en Waarden (Norms and Values)
-| Nederlands | English |
-| :--- | :--- |
-| In Nederland zijn mannen en vrouwen **gelijk**. Ze hebben dezelfde rechten en kansen. | In the Netherlands, men and women are **equal**. They have the same rights and opportunities. |
-| Iedereen mag zichzelf zijn. **Homoseksualiteit** is geaccepteerd. Twee mannen of twee vrouwen mogen trouwen. | Everyone can be themselves. **Homosexuality** is accepted. Two men or two women are allowed to marry. |
-| Je hebt de **vrijheid** om je eigen kleding, religie en partner te kiezen. | You have the **freedom** to choose your own clothing, religion, and partner. |
-
----
-
-## 3. Feesten en Tradities (Holidays and Traditions)
-
-### De Feestdagen (The Holidays)
-| Nederlands | English |
-| :--- | :--- |
-| **Koningsdag** (27 april) | **King's Day**: Celebration of the King's birthday. The whole country is free and dresses in orange. |
-| **Dodenherdenking** (4 mei) | **Remembrance Day**: At 20:00, everyone is silent for 2 minutes to remember war victims. |
-| **Bevrijdingsdag** (5 mei) | **Liberation Day**: Celebration of the end of WWII and freedom. |
-| **Sinterklaas** (5 december) | **Sinterklaas**: A children's feast where they get gifts from Sinterklaas (Pakjesavond). |
-| **Kerstmis** (25/26 december) | **Christmas**: Celebrating the birth of Jesus, often with family and food. |
-| **Oud en Nieuw** (31 dec/1 jan) | **New Year's Eve**: Fireworks and *oliebollen* (doughnuts). |
-| **Suikerfeest (Eid al-Fitr)** | **Sugar Feast**: Islamic festival marking the end of Ramadan. |
-| **Keti Koti** (1 juli) | **Keti Koti**: Commemoration of the abolition of slavery. |
-| **Carnaval** (feb/maart) | **Carnival**: A festival where people dress up, celebrated mainly in the south. |
-
----
+| **Nationale Feestdagen**<br><br>De bekendste feestdag is **Koningsdag** op 27 april. Iedereen is vrij, trekt oranje kleding aan en viert de verjaardag van de Koning. Er zijn vrijmarkten waar mensen oude spullen verkopen. Op 4 mei is de **Dodenherdenking**. Om 20:00 uur is iedereen twee minuten stil om de slachtoffers van de Tweede Wereldoorlog te herdenken. Op 5 mei is het **Bevrijdingsdag** en vieren we de vrijheid met festivals. | **National Holidays**<br><br>The most famous holiday is **King's Day** on April 27th. Everyone is off work, puts on orange clothes, and celebrates the King's birthday. There are flea markets where people sell old items. On May 4th is **Remembrance Day**. At 8:00 PM, everyone is silent for two minutes to commemorate the victims of World War II. On May 5th is **Liberation Day** and we celebrate freedom with festivals. |
+| **Culturele Tradities**<br><br>Een typisch Nederlands kinderfeest is **Sinterklaas** op 5 december. Kinderen krijgen cadeautjes van Sinterklaas en Piet. Op 31 december vieren we **Oud en Nieuw** met oliebollen en vuurwerk. Andere feesten zoals het **Suikerfeest** (Eid al-Fitr) en **Keti Koti** (afschaffing slavernij) worden ook steeds meer gevierd. | **Cultural Traditions**<br><br>A typical Dutch children's party is **Sinterklaas** on December 5th. Children receive gifts from Sinterklaas and Piet. On December 31st, we celebrate **New Year's Eve** with 'oliebollen' (doughnuts) and fireworks. Other festivals such as the **Sugar Feast** (Eid al-Fitr) and **Keti Koti** (abolition of slavery) are also increasingly celebrated. |
 
 ## 4. Sociale Contacten (Social Contacts)
 
-### Belangrijke Begrippen (Important Terms)
 | Nederlands | English |
 | :--- | :--- |
-| **Vereniging** | **Association/Club** (group of people with same hobby/sport) |
-| **Vrijwilliger** | **Volunteer** (working without pay) |
-| **Contributie** | **Membership fee** (yearly payment for a club) |
-| **Kraamvisite** | **Maternity visit** (visiting parents and newborn baby) |
-| **Condoleren** | **Condolences** (showing sympathy after a death) |
-| **Buren** | **Neighbors** (people living next to you) |
-
-### Informatie (Information)
-| Nederlands | English |
-| :--- | :--- |
-| Lid worden van een **vereniging** (zoals voetbal) is goed om mensen te leren kennen. | Joining an **association** (like football) is good for meeting people. |
-| Bij een vereniging doe je vaak **vrijwilligerswerk**, zoals helpen achter de bar. | At a club, you often do **volunteer work**, such as helping behind the bar. |
-| Als er een baby is geboren, ga je op **kraamvisite**. Maak wel eerst een afspraak. | When a baby is born, you go on a **maternity visit**. Do make an appointment first. |
-| Als iemand overlijdt, stuur je een kaart om te **condoleren** ('Gecondoleerd'). | If someone dies, you send a card to **offer condolences** ('My condolences'). |
+| **Verenigingen en Vrijwilligers**<br><br>Nederlanders zijn dol op **verenigingen**. Er is een club voor alles: voetbal, zingen, schaken, etc. Lid worden van een vereniging is de beste manier om Nederlanders te leren kennen. Veel verenigingen draaien op **vrijwilligers**. Dat zijn mensen die gratis werken voor de club, bijvoorbeeld achter de bar of als trainer. Het wordt gewaardeerd als jij ook vrijwilligerswerk doet. | **Associations and Volunteers**<br><br>Dutch people love **associations** (clubs). There is a club for everything: football, singing, chess, etc. Joining a club is the best way to get to know Dutch people. Many associations run on **volunteers**. These are people who work for free for the club, for example behind the bar or as a trainer. It is appreciated if you also do volunteer work. |
+| **Op Bezoek en Beleefdheid**<br><br>Als je bij iemand op bezoek gaat, krijg je vaak koffie of thee met één koekje. De trommel gaat daarna weer dicht. Dit vinden sommige buitenlanders gierig, maar het is gewoon een gewoonte. Bij een verjaardag feliciteer je iedereen, ook de familie. Als er een baby is geboren, ga je op **kraamvisite** om de baby te bewonderen en beschuit met muisjes te eten. Maak wel eerst een afspraak! Bij een overlijden stuur je een kaartje om te **condoleren**. | **Visiting and Politeness**<br><br>When you visit someone, you often get coffee or tea with one cookie. The tin is then closed again. Some foreigners find this stingy, but it is just a habit. At a birthday, you congratulate everyone, including the family. When a baby is born, you go on a **maternity visit** to admire the baby and eat 'beschuit met muisjes'. Do make an appointment first! When someone dies, you send a card to **offer condolences**. |
