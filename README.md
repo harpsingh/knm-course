@@ -18,6 +18,9 @@ Klik op een thema om de lesstof te bekijken.
 3.  **[Gezondheid (Health)](Gezondheid.md)**
     *   Huisarts, medicijnen, spoedzorg en het consultatiebureau.
     *   (GP, medication, emergency care, and the child health center.)
+4.  **[Politiek en rechtspraak (Politics and Judiciary)](Politiek_en_rechtspraak.md)**
+    *   De Grondwet, verkiezingen, de koning en de scheiding van machten.
+    *   (The Constitution, elections, the king, and the separation of powers.)
 
 ---
 *Succes met leren! (Good luck with studying!)*
