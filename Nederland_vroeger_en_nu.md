@@ -8,13 +8,13 @@ In dit thema leer je over de geschiedenis en geografie van Nederland. We kijken 
 ### 🇳🇱 Nederlands
 **Het Land en de Provincies**
 
-Nederland is een klein and dichtbevolkt land in West-Europa, ongeveer 300 kilometer lang and 180 kilometer breed. Er wonen meer dan 17 miljoen mensen. Het land heeft twaalf **provincies**, elk met een eigen bestuur and hoofdstad. Nederland is een vlak land; een groot deel ligt onder de zeespiegel. **Dijken**, duinen and **polders** (drooggemaakt land) zorgen ervoor dat het land veilig blijft. Het hoogste punt is slechts 322 meter hoog (in Zuid-Limburg). Er is veel water, met grote rivieren zoals de Rijn, de Waal and de Maas die uitmonden in de Noordzee. Het grootste meer is het **IJsselmeer**, dat vroeger een zee was (de Zuiderzee) tot de **Afsluitdijk** werd gebouwd.
+Nederland is een klein and **dichtbevolkt** land in West-Europa, ongeveer 300 kilometer lang and 180 kilometer breed. Er wonen meer dan 17 miljoen mensen. Het land heeft twaalf **provincies**, elk met een eigen bestuur and hoofdstad. Nederland is een **vlak** land; een groot deel ligt onder de **zeespiegel**. **Dijken**, **duinen** and **polders** (drooggemaakt land) zorgen ervoor dat het land veilig blijft. Het hoogste punt is slechts 322 meter hoog (in Zuid-Limburg). Er is veel water, met grote rivieren zoals de Rijn, de Waal and de Maas die uitmonden in de Noordzee. Het grootste meer is het **IJsselmeer**, dat vroeger een zee was (de Zuiderzee) tot de **Afsluitdijk** werd gebouwd. In het noorden liggen de **Waddeneilanden**, waar je met de boot naartoe kunt.
 
 ### 🇬🇧 English
 <small>
 **The Land and the Provinces**
 
-The Netherlands is a small and densely populated country in Western Europe, about 300 kilometers long and 180 kilometers wide. More than 17 million people live there. The country has twelve **provinces**, each with its own government and capital. The Netherlands is a flat country; a large part lies below sea level. **Dikes**, dunes, and **polders** (reclaimed land) ensure that the land remains safe. The highest point is only 322 meters high (in South Limburg). There is a lot of water, with large rivers such as the Rhine, the Waal, and the Meuse that flow into the North Sea. The largest lake is the **IJsselmeer**, which used to be a sea (the Zuiderzee) until the **Afsluitdijk** was built.
+The Netherlands is a small and **densely populated** (dichtbevolkt) country in Western Europe, about 300 kilometers long and 180 kilometers wide. More than 17 million people live there. The country has twelve **provinces**, each with its own government and capital. The Netherlands is a **flat** (vlak) country; a large part lies below **sea level** (zeespiegel). **Dikes**, **dunes**, and **polders** (reclaimed land) ensure that the land remains safe. The highest point is only 322 meters high (in South Limburg). There is a lot of water, with large rivers such as the Rhine, the Waal, and the Meuse that flow into the North Sea. The largest lake is the **IJsselmeer**, which used to be a sea (the Zuiderzee) until the **Afsluitdijk** was built. In the north are the **Wadden Islands**, which you can reach by boat.
 </small>
 
 ---
@@ -22,13 +22,13 @@ The Netherlands is a small and densely populated country in Western Europe, abou
 ### 🇳🇱 Nederlands
 **Belangrijke Steden en de Randstad**
 
-**Amsterdam** is de hoofdstad and de grootste stad, bekend om zijn grachten and de haven. Vlakbij ligt **Schiphol**, het grootste vliegveld. **Rotterdam** heeft de grootste haven van Europa (**Europoort**) and een modern centrum omdat veel oude gebouwen in 1940 zijn gebombardeerd. In **Den Haag** zit de regering and wonen de koning and koningin. **Utrecht** ligt heel centraal and heeft het grootste treinstation and de hoogste kerktoren (**Domtoren**). Het gebied tussen deze vier steden noem je de **Randstad**. Voor vervoer gebruiken veel Nederlanders de fiets of het **openbaar vervoer (ov)**. Je reist met een ov-chipkaart of betaalt met je betaalpas/telefoon.
+**Amsterdam** is de **hoofdstad** and de grootste stad, bekend om zijn **grachten** and de **haven**. Vlakbij ligt **Schiphol**, het grootste vliegveld. **Rotterdam** heeft de grootste haven van Europa (**Europoort**) and een modern centrum omdat veel oude gebouwen in 1940 zijn gebombardeerd. In **Den Haag** zit de regering and wonen de koning and koningin. **Utrecht** ligt heel centraal and heeft het grootste treinstation and de hoogste kerktoren (**Domtoren**). Het gebied tussen deze vier steden noem je de **Randstad**. Voor vervoer gebruiken veel Nederlanders de fiets of het **openbaar vervoer (ov)**. Je reist met een **OV-app** or betaalt met je betaalpas/telefoon (**vervoersbewijs**).
 
 ### 🇬🇧 English
 <small>
 **Important Cities and the Randstad**
 
-**Amsterdam** is the capital and largest city, known for its canals and harbor. Nearby is **Schiphol**, the largest airport. **Rotterdam** has the largest harbor in Europe (**Europoort**) and a modern center because many old buildings were bombed in 1940. The government is located in **The Hague**, where the King and Queen also live. **Utrecht** is very centrally located and has the largest train station and the highest church tower (**Dom Tower**). The area between these four cities is called the **Randstad**. For transportation, many Dutch people use bicycles or **public transport (ov)**. You travel with a public transport chip card or pay with your debit card/phone.
+**Amsterdam** is the **capital** and largest city, known for its **canals** (grachten) and harbor. Nearby is **Schiphol**, the largest airport. **Rotterdam** has the largest harbor in Europe (**Europoort**) and a modern center because many old buildings were bombed in 1940. The government is located in **The Hague**, where the King and Queen also live. **Utrecht** is very centrally located and has the largest train station and the highest church tower (**Dom Tower**). The area between these four cities is called the **Randstad**. For transportation, many Dutch people use bicycles or **public transport (ov)**. You travel using an **OV-app** or pay with your debit card/phone (**transport ticket**).
 </small>
 
 ---
@@ -38,59 +38,75 @@ The Netherlands is a small and densely populated country in Western Europe, abou
 ### 🇳🇱 Nederlands
 **Van de Lage Landen naar de Gouden Eeuw**
 
-Rond 1500 bestond Nederland uit kleine landjes. In 1519 werden deze samengevoegd tot de **Lage Landen**. In 1570 hoorde Nederland bij Spanje, maar veel mensen werden protestant. De Spaanse koning wilde dat iedereen katholiek bleef, wat leidde tot een tachtigjarige oorlog. **Willem van Oranje** was een belangrijke leider in deze strijd; ons volkslied, het **Wilhelmus**, gaat over hem. De 17e eeuw (1600-1700) wordt de **Gouden Eeuw** genoemd. Nederland werd rijk door handel met Azië (peper, thee, koffie) and stichtte **koloniën** zoals Suriname and Nederlands-Indië. In deze tijd schilderde **Rembrandt** ook zijn beroemde werk, de **Nachtwacht**.
+Rond 1500 bestond Nederland uit kleine landjes. In 1519 werden deze samengevoegd tot de **Lage Landen**. In 1570 hoorde Nederland bij Spanje, maar veel mensen werden protestant. De Spaanse koning wilde dat iedereen katholiek bleef, wat leidde tot een tachtigjarige oorlog. **Willem van Oranje** was een belangrijke leider in deze strijd; ons volkslied, het **Wilhelmus**, gaat over hem. De 17e eeuw (1600-1700) wordt de **Gouden Eeuw** genoemd. Nederland werd rijk door **handel** met Azië (peper, thee, koffie) and stichtte **koloniën** zoals Suriname and Nederlands-Indië. In deze tijd schilderde **Rembrandt** ook zijn beroemde werk, de **Nachtwacht**.
 
 ### 🇬🇧 English
 <small>
 **From the Low Countries to the Golden Age**
 
-Around 1500, the Netherlands consisted of small territories. In 1519, these were merged into the **Low Countries**. In 1570, the Netherlands belonged to Spain, but many people became Protestant. The Spanish King wanted everyone to remain Catholic, leading to an eighty-year war. **William of Orange** was an important leader in this struggle; our national anthem, the **Wilhelmus**, is about him. The 17th century (1600-1700) is called the **Golden Age**. The Netherlands became rich through trade with Asia (pepper, tea, coffee) and established **colonies** such as Suriname and the Dutch East Indies. During this time, **Rembrandt** also painted his famous work, the **Night Watch**.
-</small>
-
----
-
-## 3. De Tweede Wereldoorlog (World War II)
-
-### 🇳🇱 Nederlands
-**Bezetting en Jodenvervolging**
-
-In mei 1940 viel Duitsland Nederland binnen. Na het bombardement op **Rotterdam** gaf Nederland zich over. Voor **Joden** werd de situatie snel verschrikkelijk. Ze moesten een Jodenster dragen and werden vanaf 1942 afgevoerd naar kampen. Via kamp **Westerbork** gingen ze in goederenwagons naar vernietigingskampen in Polen, zoals **Auschwitz** and Sobibor. In totaal zijn 102.000 Nederlandse Joden vermoord. Ook Roma and Sinti werden vervolgd. Sommige mensen gingen in het **verzet** of hielpen Joden door ze te laten **onderduiken**. Veel andere Nederlanders hielpen de Duitsers; zij werden **NSB'ers** (landverraders) genoemd.
-
-### 🇬🇧 English
-<small>
-**Occupation and Persecution of Jews**
-
-In May 1940, Germany invaded the Netherlands. After the bombing of **Rotterdam**, the Netherlands surrendered. For **Jews**, the situation quickly became terrible. They had to wear a Star of David and were deported to camps starting in 1942. Via camp **Westerbork**, they went in freight wagons to extermination camps in Poland, such as **Auschwitz** and Sobibor. In total, 102,000 Dutch Jews were murdered. Roma and Sinti were also persecuted. Some people joined the **resistance** or helped Jews by letting them **go into hiding**. Many other Dutch people helped the Germans; they were called **NSB'ers** (traitors).
+Around 1500, the Netherlands consisted of small territories. In 1519, these were merged into the **Low Countries** (Lage Landen). In 1570, the Netherlands belonged to Spain, but many people became Protestant. The Spanish King wanted everyone to remain Catholic, leading to an eighty-year war. **William of Orange** was an important leader in this struggle; our national anthem, the **Wilhelmus**, is about him. The 17th century (1600-1700) is called the **Golden Age**. The Netherlands became rich through **trade** (handel) with Asia (pepper, tea, coffee) and established **colonies** such as Suriname and the Dutch East Indies. During this time, **Rembrandt** also painted his famous work, the **Night Watch**.
 </small>
 
 ---
 
 ### 🇳🇱 Nederlands
-**Hongerwinter en Bevrijding**
+**Slavernij en de Franse Tijd**
 
-In 1944 werd het zuiden van Nederland bevrijd, maar het westen kreeg te maken met de **hongerwinter**. Meer dan 20.000 mensen stierven van de honger. Begin mei 1945 volgde de totale **bevrijding** door de Amerikanen, Engelsen and Canadezen. We vieren dit elk jaar op 5 mei (**Bevrijdingsdag**). De oorlog liet diepe sporen and veel verdriet achter in de Nederlandse samenleving.
+In de 17e and 18e eeuw waren Nederlanders ook actief in de **slavernij**. Ze kochten and verkochten mensen uit Afrika om voor hen te werken. Deze mensen waren niet vrij and werden vaak slecht behandeld. Pas op 1 juli 1863 werd slavernij verboden. Deze dag noemen we nu **Keti Koti**.
+Rond 1800 werd de Franse keizer Napoleon de baas in Nederland. Hij voerde nieuwe wetten in; iedereen moest bijvoorbeeld een achternaam kiezen. In 1815 werd Nederland weer **onafhankelijk** and werd Willem I de eerste koning van het **Koninkrijk der Nederlanden**.
 
 ### 🇬🇧 English
 <small>
-**Hunger Winter and Liberation**
+**Slavery and the French Period**
 
-In 1944, the south of the Netherlands was liberated, but the west faced the **Hunger Winter**. More than 20,000 people died of hunger. In early May 1945, the total **liberation** by the Americans, British, and Canadians followed. We celebrate this every year on May 5 (**Liberation Day**). The war left deep scars and much grief in Dutch society.
+In the 17th and 18th centuries, the Dutch were also active in **slavery** (slavernij). They bought and sold people from Africa to work for them. These people were not free and were often treated poorly. It was not until July 1, 1863, that slavery was forbidden. We now call this day **Keti Koti**.
+Around 1800, the French Emperor Napoleon took control of the Netherlands. He introduced new laws; for example, everyone had to choose a last name. In 1815, the Netherlands became **independent** (onafhankelijk) again, and William I became the first king of the **Kingdom of the Netherlands**.
 </small>
 
 ---
 
-## 4. Na de Oorlog (After the War)
+## 3. De Wereldoorlogen (World Wars)
 
 ### 🇳🇱 Nederlands
-**Wederopbouw en Verandering**
+**De Eerste Wereldoorlog en Anne Frank**
 
-Na de oorlog begon de wederopbouw. In 1949 werd Nederlands-Indië onafhankelijk (**Indonesië**) and in 1975 volgde **Suriname**. In 1953 werd Nederland getroffen door de **Watersnoodramp** in Zeeland, waarbij meer dan 1800 mensen omkwamen. Om dit in de toekomst te voorkomen, werden de **Deltawerken** gebouwd. Nederland begon ook economisch samen te werken in Europa, wat leidde tot de huidige **Europese Unie (EU)**. Vanaf 1960 kwamen er **gastarbeiders** uit landen als Italië, Turkije and Marokko om te werken. Dit was het begin van de huidige **multiculturele samenleving**.
+Tijdens de **Eerste Wereldoorlog** (1914-1918) bleef Nederland neutraal, maar ving het wel veel vluchtelingen uit België op. In 1940 begon de **Tweede Wereldoorlog** in Nederland toen Duitsland binnenviel. Na het bombardement op **Rotterdam** gaf Nederland zich over. In die tijd werden veel Joden vermoord (**Holocaust**). Een van hen was **Anne Frank**, die met haar familie moest **onderduiken** in Amsterdam. Ze schreef een beroemd dagboek, *Het Achterhuis*. Ze stierf op 15-jarige leeftijd in een Duits **kamp**.
 
 ### 🇬🇧 English
 <small>
-**Reconstruction and Change**
+**The First World War and Anne Frank**
 
-After the war, reconstruction began. In 1949, the Dutch East Indies became independent (**Indonesia**), and in 1975 **Suriname** followed. In 1953, the Netherlands was hit by the **North Sea Flood** (Watersnoodramp) in Zeeland, in which more than 1,800 people died. To prevent this in the future, the **Delta Works** were built. The Netherlands also began to cooperate economically in Europe, which led to the current **European Union (EU)**. From 1960, **guest workers** from countries such as Italy, Turkey, and Morocco came to work. This was the beginning of today's **multicultural society**.
+During the **First World War** (1914-1918), the Netherlands remained neutral but took in many refugees from Belgium. In 1940, the **Second World War** began in the Netherlands when Germany invaded. After the bombing of **Rotterdam**, the Netherlands surrendered. During that time, many Jews were murdered (**Holocaust**). One of them was **Anne Frank**, who had to **go into hiding** (onderduiken) with her family in Amsterdam. She wrote a famous diary, *The Secret Annex*. She died at the age of 15 in a German **camp**.
+</small>
+
+---
+
+### 🇳🇱 Nederlands
+**Bezetting, Verzet en Bevrijding**
+
+Tijdens de oorlog moesten Joden een **Jodenster** dragen and werden zij op **deportatie** gestuurd via kamp **Westerbork** naar vernietigingskampen zoals **Auschwitz**. Sommige mensen gingen in het **verzet**, terwijl **NSB'ers** met de Duitsers samenwerkten. In de winter van 1944-1945 was er de **hongerwinter** in het westen. Op 5 mei 1945 werd Nederland bevrijd. Elk jaar op 4 mei is er **Dodenherdenking**; om 20:00 uur is het twee minuten stil in heel het land. Op 5 mei vieren we de **Bevrijdingsdag** met muziekfestivals.
+
+### 🇬🇧 English
+<small>
+**Occupation, Resistance, and Liberation**
+
+During the war, Jews had to wear a **Star of David** (Jodenster) and were sent on **deportation** via camp **Westerbork** to extermination camps like **Auschwitz**. Some people joined the **resistance** (verzet), while **NSB members** collaborated with the Germans. In the winter of 1944-1945, there was the **Hunger Winter** in the west. On May 5, 1945, the Netherlands was liberated. Every year on May 4th is **Remembrance Day** (Dodenherdenking); at 8:00 PM, there are two minutes of silence throughout the country. On May 5th, we celebrate **Liberation Day** (Bevrijdingsdag) with music festivals.
+</small>
+
+---
+
+## 4. Wederopbouw en Samenwerking (Reconstruction and Cooperation)
+
+### 🇳🇱 Nederlands
+**Na de Oorlog en de Deltawerken**
+
+Na 1945 was Nederland arm and moest het worden opgebouwd (**wederopbouw**). Nederland werd lid van de **Verenigde Naties (VN)** and de **NAVO** voor veiligheid. In 1949 werd **Indonesië** onafhankelijk and in 1975 **Suriname**. In 1953 werd Zeeland getroffen door de **Watersnoodramp**, waarna de **Deltawerken** werden gebouwd. Vanaf 1960 kwamen er **gastarbeiders** naar Nederland, wat leidde tot de huidige **multiculturele samenleving**. In de EU werken we nu samen met andere Europese landen.
+
+### 🇬🇧 English
+<small>
+**After the War and the Delta Works**
+
+After 1945, the Netherlands was poor and had to be rebuilt (**reconstruction**). The Netherlands became a member of the **United Nations (UN)** and **NATO** (NAVO) for security. In 1949, **Indonesia** became independent, and in 1975 **Suriname**. In 1953, Zeeland was hit by the **North Sea Flood**, after which the **Delta Works** were built. From 1960, **guest workers** came to the Netherlands, leading to today's **multicultural society**. In the EU, we now cooperate with other European countries.
 </small>
 
 ---
@@ -110,10 +126,16 @@ After the war, reconstruction began. In 1949, the Dutch East Indies became indep
 - **Deltawerken**: De grote verdedigingssystemen (dammen and stormvloedkeringen) gebouwd na de ramp van 1953. / <small>The large defense systems (dams and storm surge barriers) built after the 1953 disaster.</small>
 - **Wederopbouw** (Reconstruction): De periode na de Tweede Wereldoorlog waarin Nederland de schade herstelde. / <small>The period after WWII when the Netherlands repaired the war damage.</small>
 - **Bevrijding** (Liberation): Het einde van de Duitse bezetting in mei 1945. / <small>The end of the German occupation in May 1945.</small>
-- **Hongerwinter** (Hunger Winter): De winter van 1944-1945 waarin veel mensen in het westen van Nederland stierven van de honger. / <small>The winter of 1944-1945 when many people in the western Netherlands died of starvation.</small>
+- **Hongerwinter** (Hunger Winter): De winter van 1944-1945 waarin veel mensen in het westen van Nederland stierven van de hoger. / <small>The winter of 1944-1945 when many people in the western Netherlands died of starvation.</small>
 - **NSB'ers**: Nederlanders die tijdens de Tweede Wereldoorlog de Duitsers hielpen; zij werden gezien als landverraders. / <small>Dutch people who helped the Germans during WWII; they were seen as traitors.</small>
-- **Auschwitz / Sobibor**: Vernietigingskampen in Polen waar de meeste Nederlandse Joden zijn vermoord. / <small>Extermination camps in Poland where most Dutch Jews were murdered.</small>
-- **Westerbork**: Een doorgangskamp in Drenthe vanwaar Joden werden gedeporteerd naar kampen in het oosten. / <small>A transit camp in Drenthe from where Jews were deported to camps in the east.</small>
-- **Randstad**: Het gebied in het westen van Nederland gevormd door de steden Amsterdam, Rotterdam, Den Haag and Utrecht. / <small>The area in the western Netherlands formed by the cities Amsterdam, Rotterdam, The Hague, and Utrecht.</small>
-- **Wilhelmus**: Het volkslied van Nederland, dat gaat over Willem van Oranje. / <small>The national anthem of the Netherlands, which is about William of Orange.</small>
-- **Willem van Oranje**: De leider van de opstand tegen Spanje, ook wel de 'Vader des Vaderlands' genoemd. / <small>The leader of the revolt against Spain, also known as the 'Father of the Fatherland'.</small>
+- **Holocaust**: De moord op miljoenen Joden door de nazi's tijdens de Tweede Wereldoorlog. / <small>The murder of millions of Jews by the Nazis during WWII.</small>
+- **Anne Frank**: Een Joods meisje dat een dagboek schreef terwijl ze ondergedoken zat tijdens de oorlog. / <small>A Jewish girl who wrote a diary while in hiding during the war.</small>
+- **Verenigde Naties (VN)** (United Nations): Internationale organisatie waarin landen samenwerken voor vrede. / <small>International organization where countries cooperate for peace.</small>
+- **NAVO** (NATO): Militaire samenwerking tussen westerse landen. / <small>Military cooperation between Western countries.</small>
+- **Keti Koti**: Feestdag op 1 juli om het einde van de slavernij te vieren. / <small>Holiday on July 1st to celebrate the end of slavery.</small>
+- **Onafhankelijk** (Independent): Zelfstandig, niet onder de macht van een ander land. / <small>Self-standing, not under the power of another country.</small>
+- **Dichtbevolkt** (Densely populated): Veel mensen op een klein oppervlak. / <small>Many people in a small area.</small>
+- **OV-app**: Een app op je telefoon om je reis met de trein of bus te plannen. / <small>An app on your phone to plan your trip by train or bus.</small>
+- **Vervoersbewijs** (Transport ticket): Een kaartje of pasje waarmee je laat zien dat je hebt betaald voor de reis. / <small>A ticket or pass that shows you have paid for your journey.</small>
+- **Zeespiegel** (Sea level): De hoogte van het zeewater. / <small>The level of the seawater.</small>
+- **Gracht**: Een smalle rivier in een stad die door mensen is gemaakt. / <small>A narrow river in a city created by people.</small>
