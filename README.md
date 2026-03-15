@@ -20,10 +20,12 @@ De cursus is onderverdeeld in de volgende acht thema's. Klik op een titel om de 
 4.  **[Thema 4: Onderwijs en opvoeding (Education and Upbringing)](Onderwijs_en_opvoeding.md)**
     *   Basisschool, middelbare school, kosten, kinderopvang en opvoeding.
     *   <small>(Primary school, secondary school, costs, childcare, and upbringing.)</small>
-5.  **Thema 5: Werk en inkomen (Work and Income)**
-    *   *(Binnenkort beschikbaar / Available soon)*
-6.  **Thema 6: Instanties (Institutions)**
-    *   *(Binnenkort beschikbaar / Available soon)*
+5.  **[Thema 5: Werk en inkomen (Work and Income)](Werk_en_inkomen.md)**
+    *   Solliciteren, arbeidsrechten, een eigen bedrijf beginnen en uitkeringen.
+    *   <small>(Applying for jobs, labor rights, starting your own business, and benefits.)</small>
+6.  **[Thema 6: Instanties (Institutions)](Instanties.md)**
+    *   Overheidscontact, de gemeente, naturalisatie, verzekeringen en belastingen.
+    *   <small>(Government contact, the municipality, naturalization, insurance, and taxes.)</small>
 7.  **[Thema 7: Nederland vroeger en nu (The Netherlands Past and Present)](Nederland_vroeger_en_nu.md)**
     *   Geschiedenis, geografie, de Randstad en de Tweede Wereldoorlog.
     *   <small>(History, geography, the Randstad, and World War II.)</small>
