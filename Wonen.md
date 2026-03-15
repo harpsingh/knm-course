@@ -68,7 +68,7 @@ Buying a house starts with determining your **budget** and what kind of home you
 ### 🇳🇱 Nederlands
 **Gas, Water en Licht**
 
-In de **meterkast** van je woning vind je de meters voor water, gas en stroom. De **meterstand** laat zien hoeveel je hebt gebruikt. Je kiest zelf een **energieleverancier** en een **provider** voor internet. De **netbeheerder** zorgt voor het transport naar je huis. Je kunt kiezen voor een **vast contract** (dezelfde prijs voor langere tijd) of een **variabel contract** (prijs kan veranderen). Je betaalt maandelijks een **voorschot**, en na een jaar krijg je de **jaarafrekening** op basis van je werkelijke **verbruik**. Apparaten zoals de **cv-ketel** zorgen voor warm water en verwarming. Om het **milieu** te sparen, kiezen veel mensen voor **groene stroom** uit zon of wind.
+In de **meterkast** van je woning vind je de meters voor water, gas en stroom. De **meterstand** laat zien hoeveel je hebt gebruikt. Je kiest zelf een **energieleverancier** en een **provider** voor internet. De **netbeheerder** zorgt voor het transport naar je huis. Je kunt kiezen voor een **vast contract** (dezelfde prijs voor langere tijd) of een **variabel contract** (prijs kan veranderen). Je betaalt maandelijks een **voorschot**, en na een jaar krijg je de **jaarafrekening** op basis van je werkelijke **verbruik**. Apparaten zoals de **cv-ketel** zorgen for warm water en verwarming. Om het **milieu** te sparen, kiezen veel mensen voor **groene stroom** uit zon of wind.
 
 ### 🇬🇧 English
 <small>
@@ -95,11 +95,13 @@ In the Netherlands, it is important to **separate your waste**. The municipality
 
 ## Belangrijke Begrippen (Important Terms)
 
-- **Woningcorporatie** (Housing Association): Een organisatie die betaalbare sociale huurwoningen verhuurt en beheert.
-- **Huurtoeslag** (Rent Subsidy): Een bijdrage van de overheid in de huurkosten voor mensen met een lager inkomen.
-- **Hypotheek** (Mortgage): Een lening bij de bank speciaal voor de aankoop van een huis.
-- **Statiegeld** (Deposit): Een klein bedrag dat je extra betaalt voor flessen/blikjes en terugkrijgt bij inlevering.
-- **GFT** (Organic waste): Groente-, fruit- en tuinafval; dit moet apart worden ingeleverd voor recycling.
-- **Milieustraat** (Recycling center): Een plek in de gemeente waar je grofvuil en chemisch afval kunt inleveren.
-- **Urgentieverklaring** (Urgency certificate): Een bewijs waarmee je voorrang krijgt op een sociale huurwoning in noodsituaties.
-- **Bedenktijd** (Cooling-off period): De tijd (meestal 3 dagen) die de koper heeft om de koop van een huis ongedaan te maken.
+- **Woningcorporatie** (Housing Association): Een organisatie die betaalbare sociale huurwoningen verhuurt en beheert. / <small>An organization that rents out and manages affordable social housing.</small>
+- **Huurtoeslag** (Rent Subsidy): Een bijdrage van de overheid in de huurkosten voor mensen met een lager inkomen. / <small>A government contribution towards rental costs for people with lower incomes.</small>
+- **Hypotheek** (Mortgage): Een lening bij de bank speciaal voor de aankoop van een huis. / <small>A bank loan specifically for purchasing a house.</small>
+- **Statiegeld** (Deposit): Een klein bedrag dat je extra betaalt voor flessen/blikjes en terugkrijgt bij inlevering. / <small>A small extra amount you pay for bottles/cans that is refunded upon return.</small>
+- **GFT** (Organic waste): Groente-, fruit- en tuinafval; dit moet apart worden ingeleverd voor recycling. / <small>Vegetable, fruit, and garden waste; must be disposed of separately for recycling.</small>
+- **Milieustraat** (Recycling center): Een plek in de gemeente waar je grofvuil en chemisch afval kunt inleveren. / <small>A municipal location where you can dispose of bulky and chemical waste.</small>
+- **Urgentieverklaring** (Urgency certificate): Een bewijs waarmee je voorrang krijgt op een sociale huurwoning in noodsituaties. / <small>Proof that gives you priority for social housing in emergency situations.</small>
+- **Bedenktijd** (Cooling-off period): De tijd (meestal 3 dagen) die de koper heeft om de koop van een huis ongedaan te maken. / <small>The period (usually 3 days) a buyer has to cancel the purchase of a house.</small>
+- **Huurcommissie** (Rent Tribunal): Een organisatie die helpt bij problemen tussen huurders en verhuurders. / <small>An organization that assists with problems between tenants and landlords.</small>
+- **Servicekosten** (Service charges): Extra kosten voor diensten zoals schoonmaak of onderhoud van gemeenschappelijke ruimtes. / <small>Extra costs for services like cleaning or maintenance of shared areas.</small>

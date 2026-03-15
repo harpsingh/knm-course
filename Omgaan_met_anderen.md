@@ -8,7 +8,7 @@ In dit thema leer je over de Nederlandse cultuur en sociale omgangsvormen. We be
 ### 🇳🇱 Nederlands
 **Directe Communicatie: Zeggen wat je bedoelt**
 
-Veel Nederlanders staan bekend om hun **directe communicatie**. Dit betekent dat ze vaak eerlijk en duidelijk zeggen wat ze denken of willen. Ze verwachten dat anderen dat ook doen. Als een buurvrouw vraagt: "Wil je koffie?" en je antwoordt "Nee, dank je" uit beleefdheid (terwijl je eigenlijk wel koffie wilt), zal een Nederlander dat letterlijk nemen and je niets geven. In veel andere culturen is meteen "ja" zeggen niet beleefd, maar in Nederland kan dit tot misverstanden leiden. Directheid wordt gezien als efficiënt en eerlijk, niet als onbeleefd.
+Veel Nederlanders staan bekend om hun **directe communicatie**. Dit betekent dat ze vaak eerlijk en duidelijk zeggen wat ze denken of willen. Ze verwachten dat anderen dat ook doen. Als een buurvrouw vraagt: "Wil je koffie?" en je antwoordt "Nee, dank je" uit beleefdheid (terwijl je eigenlijk wel koffie wilt), zal een Nederlander dat letterlijk nemen en je niets geven. In veel andere culturen is meteen "ja" zeggen niet beleefd, maar in Nederland kan dit tot misverstanden leiden. Directheid wordt gezien als efficiënt en eerlijk, niet als onbeleefd.
 
 ### 🇬🇧 English
 <small>
@@ -127,15 +127,15 @@ When a baby is born, you send a card to congratulate the parents. You do not jus
 
 ## Belangrijke Begrippen (Important Terms)
 
-- **Directheid** (Directness): Eerlijk and duidelijk zeggen wat je denkt of wilt.
-- **Feedback** (Feedback): Reactie op iemands werk of gedrag, bedoeld om te helpen verbeteren.
-- **Contributie** (Membership Fee): Het jaarlijkse bedrag dat je betaalt om lid te zijn van een vereniging.
-- **Vrijwilliger** (Volunteer): Iemand die onbetaald werk doet voor een ander of voor de samenleving.
-- **Kraamvisite** (Maternity Visit): Een bezoek aan de ouders and de pasgeboren baby, meestal op afspraak.
-- **Condoleren** (Offering Condolences): Je medeleven betuigen aan iemand die een naaste heeft verloren.
-- **Gelijkheid** (Equality): Het principe dat iedereen dezelfde rechten and kansen heeft, ongeacht geslacht, afkomst of geaardheid.
-- **LHBTQI+** (LGBTQI+): Afkorting voor lesbisch, homoseksueel, biseksueel, transgender, intersekse and queer personen.
-- **Bevrijdingsdag** (Liberation Day): Feestdag op 5 mei om het einde van de Tweede Wereldoorlog te vieren.
-- **Dodenherdenking** (Remembrance Day): Op 4 mei herdenken we de slachtoffers van de oorlog met twee minuten stilte om 20:00 uur.
-- **Carnaval** (Carnival): Een feest in februari/maart waarbij mensen zich verkleden and feestvieren.
-- **Keti Koti** (Keti Koti): Viering van de afschaffing van de slavernij op 1 juli.
+- **Directheid** (Directness): Eerlijk and duidelijk zeggen wat je denkt of wilt. / <small>Being honest and clear about what you think or want.</small>
+- **Feedback** (Feedback): Reactie op iemands werk of gedrag, bedoeld om te helpen verbeteren. / <small>Response to someone's work or behavior, intended to help improve.</small>
+- **Contributie** (Membership Fee): Het jaarlijkse bedrag dat je betaalt om lid te zijn van een vereniging. / <small>The annual amount you pay to be a member of an association.</small>
+- **Vrijwilliger** (Volunteer): Iemand die onbetaald werk doet voor een ander of voor de samenleving. / <small>Someone who does unpaid work for another person or for society.</small>
+- **Kraamvisite** (Maternity Visit): Een bezoek aan de ouders and de pasgeboren baby, meestal op afspraak. / <small>A visit to the parents and the newborn baby, usually by appointment.</small>
+- **Condoleren** (Offering Condolences): Je medeleven betuigen aan iemand die een naaste heeft verloren. / <small>Expressing your sympathy to someone who has lost a loved one.</small>
+- **Gelijkheid** (Equality): Het principe dat iedereen dezelfde rechten and kansen heeft, ongeacht geslacht, afkomst of geaardheid. / <small>The principle that everyone has the same rights and opportunities, regardless of gender, background, or orientation.</small>
+- **LHBTQI+** (LGBTQI+): Afkorting voor lesbisch, homoseksueel, biseksueel, transgender, intersekse and queer personen. / <small>Abbreviation for lesbian, gay, bisexual, transgender, intersex, and queer persons.</small>
+- **Bevrijdingsdag** (Liberation Day): Feestdag op 5 mei om het einde van de Tweede Wereldoorlog te vieren. / <small>Holiday on May 5th to celebrate the end of World War II.</small>
+- **Dodenherdenking** (Remembrance Day): Op 4 mei herdenken we de slachtoffers van de oorlog met twee minuten stilte om 20:00 uur. / <small>On May 4th, we remember the victims of the war with two minutes of silence at 8:00 PM.</small>
+- **Carnaval** (Carnival): Een feest in februari/maart waarbij mensen zich verkleden and feestvieren. / <small>A festival in February/March where people dress up and celebrate.</small>
+- **Keti Koti** (Keti Koti): Viering van de afschaffing van de slavernij op 1 juli. / <small>Celebration of the abolition of slavery on July 1st.</small>

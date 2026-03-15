@@ -129,11 +129,14 @@ When your baby is about four weeks old, you go to the **child health center** (c
 
 ## Belangrijke Begrippen (Important Terms)
 
-- **Huisarts** (GP): Je eerste aanspreekpunt voor alle medische vragen and de poortwachter van de zorg.
-- **Huisartsenpost (HAP)** (GP Out-of-hours Clinic): Voor dringende medische hulp in de avond of het weekend.
-- **Eigen Risico** (Deductible): Het bedrag dat je per jaar eerst zelf moet betalen (behalve voor de huisarts).
-- **Zorgtoeslag** (Healthcare Allowance): Geld van de overheid om te helpen de zorgverzekering te betalen.
-- **Consultatiebureau** (Child Health Center): Instantie die de groei and gezondheid van kinderen (0-4 jaar) controleert.
-- **Verwijsbrief** (Referral Letter): Document van de huisarts dat nodig is voor de specialist in het ziekenhuis.
-- **Thuisarts.nl**: Betrouwbare website voor medische informatie and advies.
-- **DKTP-vaccinatie**: Inentingen tegen Difterie, Kinkhoest, Tetanus and Polio voor kinderen.
+- **Huisarts** (GP): Je eerste aanspreekpunt voor alle medische vragen and de poortwachter van de zorg. / <small>Your first point of contact for all medical questions and the gatekeeper of care.</small>
+- **Huisartsenpost (HAP)** (GP Out-of-hours Clinic): Voor dringende medische hulp in de avond of het weekend. / <small>For urgent medical assistance in the evening or on weekends.</small>
+- **Eigen Risico** (Deductible): Het bedrag dat je per jaar eerst zelf moet betalen (behalve voor de huisarts). / <small>The amount you must pay yourself each year before insurance kicks in (except for the GP).</small>
+- **Zorgtoeslag** (Healthcare Allowance): Geld van de overheid om te helpen de zorgverzekering te betalen. / <small>Government money to help pay for health insurance.</small>
+- **Consultatiebureau** (Child Health Center): Instantie die de groei and gezondheid van kinderen (0-4 jaar) controleert. / <small>Institution that monitors the growth and health of children (0-4 years old).</small>
+- **Verwijsbrief** (Referral Letter): Document van de huisarts dat nodig is voor de specialist in het ziekenhuis. / <small>Document from the GP needed to see a specialist in the hospital.</small>
+- **Thuisarts.nl**: Betrouwbare website voor medische informatie and advies. / <small>Reliable website for medical information and advice.</small>
+- **DKTP-vaccinatie** (DKTP Vaccination): Inentingen tegen Difterie, Kinkhoest, Tetanus and Polio voor kinderen. / <small>Vaccinations against Diphtheria, Whooping Cough, Tetanus, and Polio for children.</small>
+- **Zelfzorgmedicijnen** (OTC Medication): Medicijnen die je zonder recept kunt kopen, zoals paracetamol. / <small>Medications you can buy without a prescription, such as paracetamol.</small>
+- **Basisverzekering** (Basic Insurance): De verplichte ziektekostenverzekering voor iedereen in Nederland. / <small>The mandatory health insurance for everyone in the Netherlands.</small>
+- **Aanvullende verzekering** (Supplementary Insurance): Extra verzekering voor zorg die niet in de basisverzekering zit, zoals de tandarts. / <small>Extra insurance for care not included in the basic package, such as the dentist.</small>

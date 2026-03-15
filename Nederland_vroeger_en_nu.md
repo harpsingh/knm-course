@@ -97,13 +97,23 @@ After the war, reconstruction began. In 1949, the Dutch East Indies became indep
 
 ## Belangrijke Begrippen (Important Terms)
 
-- **Provincie** (Province): Een van de twaalf gebieden waarin Nederland is verdeeld, met een eigen bestuur.
-- **Polder** (Polder): Een stuk land dat vroeger water was and nu is drooggemaakt and omringd door dijken.
-- **Gouden Eeuw** (Golden Age): De 17e eeuw, waarin Nederland heel rijk and machtig was door de handel.
-- **Kolonie** (Colony): Een gebied in een ander werelddeel dat door Nederland werd bestuurd (zoals Suriname).
-- **Verzet** (Resistance): Mensen die tijdens de oorlog stiekem tegen de Duitsers vochten.
-- **Onderduiken** (Going into hiding): Zich op een geheime plek verbergen voor de vijand (vooral Joden tijdens de oorlog).
-- **Watersnoodramp** (North Sea Flood): De grote overstroming in 1953 in het zuidwesten van Nederland.
-- **Multiculturele samenleving** (Multicultural society): Een maatschappij waarin mensen met veel verschillende culturele achtergronden samenleven.
-- **Gastarbeider** (Guest worker): Iemand die naar Nederland kwam om tijdelijk te werken, maar vaak bleef wonen.
-- **Afsluitdijk**: De 30 km lange dijk die de Zuiderzee afsloot van de Noordzee, waardoor het IJsselmeer ontstond.
+- **Provincie** (Province): Een van de twaalf gebieden waarin Nederland is verdeeld, met een eigen bestuur. / <small>One of the twelve regions the Netherlands is divided into, each with its own government.</small>
+- **Polder** (Polder): Een stuk land dat vroeger water was and nu is drooggemaakt and omringd door dijken. / <small>A piece of land that used to be underwater, now drained and surrounded by dikes.</small>
+- **Gouden Eeuw** (Golden Age): De 17e eeuw, waarin Nederland heel rijk and machtig was door de handel. / <small>The 17th century, a period when the Netherlands was very wealthy and powerful through trade.</small>
+- **Kolonie** (Colony): Een gebied in een ander werelddeel dat door Nederland werd bestuurd (zoals Suriname). / <small>An area in another part of the world that was governed by the Netherlands (like Suriname).</small>
+- **Verzet** (Resistance): Mensen die tijdens de oorlog stiekem tegen de Duitsers vochten. / <small>People who secretly fought against the Germans during the war.</small>
+- **Onderduiken** (Going into hiding): Zich op een geheime plek verbergen voor de vijand (vooral Joden tijdens de oorlog). / <small>Hiding in a secret location to escape the enemy (primarily Jews during the war).</small>
+- **Watersnoodramp** (North Sea Flood): De grote overstroming in 1953 in het zuidwesten van Nederland. / <small>The major flood in 1953 in the southwestern part of the Netherlands.</small>
+- **Multiculturele samenleving** (Multicultural society): Een maatschappij waarin mensen met veel verschillende culturele achtergronden samenleven. / <small>A society in which people from many different cultural backgrounds live together.</small>
+- **Gastarbeider** (Guest worker): Iemand die naar Nederland kwam om tijdelijk te werken, maar vaak bleef wonen. / <small>Someone who came to the Netherlands for temporary work but often stayed permanently.</small>
+- **Afsluitdijk**: De 30 km lange dijk die de Zuiderzee afsloot van de Noordzee, waardoor het IJsselmeer ontstond. / <small>The 30 km long dike that closed off the Zuiderzee from the North Sea, creating the IJsselmeer.</small>
+- **Deltawerken**: De grote verdedigingssystemen (dammen and stormvloedkeringen) gebouwd na de ramp van 1953. / <small>The large defense systems (dams and storm surge barriers) built after the 1953 disaster.</small>
+- **Wederopbouw** (Reconstruction): De periode na de Tweede Wereldoorlog waarin Nederland de schade herstelde. / <small>The period after WWII when the Netherlands repaired the war damage.</small>
+- **Bevrijding** (Liberation): Het einde van de Duitse bezetting in mei 1945. / <small>The end of the German occupation in May 1945.</small>
+- **Hongerwinter** (Hunger Winter): De winter van 1944-1945 waarin veel mensen in het westen van Nederland stierven van de honger. / <small>The winter of 1944-1945 when many people in the western Netherlands died of starvation.</small>
+- **NSB'ers**: Nederlanders die tijdens de Tweede Wereldoorlog de Duitsers hielpen; zij werden gezien als landverraders. / <small>Dutch people who helped the Germans during WWII; they were seen as traitors.</small>
+- **Auschwitz / Sobibor**: Vernietigingskampen in Polen waar de meeste Nederlandse Joden zijn vermoord. / <small>Extermination camps in Poland where most Dutch Jews were murdered.</small>
+- **Westerbork**: Een doorgangskamp in Drenthe vanwaar Joden werden gedeporteerd naar kampen in het oosten. / <small>A transit camp in Drenthe from where Jews were deported to camps in the east.</small>
+- **Randstad**: Het gebied in het westen van Nederland gevormd door de steden Amsterdam, Rotterdam, Den Haag and Utrecht. / <small>The area in the western Netherlands formed by the cities Amsterdam, Rotterdam, The Hague, and Utrecht.</small>
+- **Wilhelmus**: Het volkslied van Nederland, dat gaat over Willem van Oranje. / <small>The national anthem of the Netherlands, which is about William of Orange.</small>
+- **Willem van Oranje**: De leider van de opstand tegen Spanje, ook wel de 'Vader des Vaderlands' genoemd. / <small>The leader of the revolt against Spain, also known as the 'Father of the Fatherland'.</small>

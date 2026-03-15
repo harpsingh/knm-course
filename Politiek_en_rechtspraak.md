@@ -91,13 +91,23 @@ The **Constitution** (Grondwet) is the most important law in the Netherlands. It
 
 ## Belangrijke Begrippen (Important Terms)
 
-- **Trias Politica** (Separation of Powers): De verdeling van de macht in wetgevende, uitvoerende and rechterlijke macht.
-- **Coalitie** (Coalition): Een samenwerking tussen verschillende politieke partijen om samen te regeren.
-- **Oppositie** (Opposition): De politieke partijen die niet in de regering zitten and de plannen kritisch volgen.
-- **Grondwet** (Constitution): De wet waarin de belangrijkste regels and rechten van alle burgers staan.
-- **Seculiere staat** (Secular State): Een land waar de kerk and de staat strikt gescheiden zijn.
-- **Stempas** (Polling Card): Het document dat je nodig hebt om te mogen stemmen bij verkiezingen.
-- **Veilig Thuis** (Safe Home): Het meldpunt voor huiselijk geweld and kindermishandeling.
-- **Zelfbeschikking** (Self-determination): Het recht om eigen keuzes te maken over je eigen leven and lichaam.
-- **Eerste en Tweede Kamer** (Senate and House of Representatives): Samen vormen zij het parlement van Nederland.
-- **Constitutionele monarchie**: Een koninkrijk waarbij de macht van de koning is vastgelegd in de Grondwet.
+- **Trias Politica** (Separation of Powers): De verdeling van de macht in wetgevende, uitvoerende and rechterlijke macht. / <small>The distribution of power into legislative, executive, and judicial branches.</small>
+- **Coalitie** (Coalition): Een samenwerking tussen verschillende politieke partijen om samen te regeren. / <small>A collaboration between different political parties to govern together.</small>
+- **Oppositie** (Opposition): De politieke partijen die niet in de regering zitten and de plannen kritisch volgen. / <small>The political parties not in the government that critically follow the plans.</small>
+- **Grondwet** (Constitution): De wet waarin de belangrijkste regels and rechten van alle burgers staan. / <small>The law that contains the most important rules and rights of all citizens.</small>
+- **Seculiere staat** (Secular State): Een land waar de kerk and de staat strikt gescheiden zijn. / <small>A country where the church and state are strictly separated.</small>
+- **Stempas** (Polling Card): Het document dat je nodig hebt om te mogen stemmen bij verkiezingen. / <small>The document you need to be allowed to vote in elections.</small>
+- **Veilig Thuis** (Safe Home): Het meldpunt voor huiselijk geweld and kindermishandeling. / <small>The reporting point for domestic violence and child abuse.</small>
+- **Zelfbeschikking** (Self-determination): Het recht om eigen keuzes te maken over je eigen leven and lichaam. / <small>The right to make one's own choices about one's life and body.</small>
+- **Eerste en Tweede Kamer** (Senate and House of Representatives): Samen vormen zij het parlement van Nederland. / <small>Together they form the parliament of the Netherlands.</small>
+- **Constitutionele monarchie** (Constitutional Monarchy): Een koninkrijk waarbij de macht van de koning is vastgelegd in de Grondwet. / <small>A kingdom where the power of the king is laid down in the Constitution.</small>
+- **Gelijke behandeling** (Equal treatment): Het recht om niet gediscrimineerd te worden op basis van religie, geaardheid of afkomst. / <small>The right not to be discriminated against based on religion, orientation, or origin.</small>
+- **Vrijheid van meningsuiting** (Freedom of speech): Het recht om te zeggen and schrijven wat je wilt, zolang je anderen niet beledigt. / <small>The right to say and write what you want, as long as you do not insult others.</small>
+- **Godsdienstvrijheid** (Freedom of religion): Het recht om zelf een geloof te kiezen of niet te geloven. / <small>The right to choose a faith yourself or not to believe.</small>
+- **Abortuswet** (Abortion law): De wet die het mogelijk maakt om een zwangerschap tot 24 weken te stoppen. / <small>The law that makes it possible to terminate a pregnancy up to 24 weeks.</small>
+- **Euthanasiewet** (Euthanasia law): De wet die artsen toestaat een patiënt te helpen sterven als er sprake is van ondraaglijk lijden. / <small>The law that allows doctors to help a patient die in case of unbearable suffering.</small>
+- **Kabinet** (Cabinet): De ministers and staatssecretarissen die het land besturen. / <small>The ministers and state secretaries who govern the country.</small>
+- **Parlementaire democratie** (Parliamentary democracy): Een vorm van democratie waarbij het volk het parlement kiest dat het land bestuurt. / <small>A form of democracy where the people elect the parliament that governs the country.</small>
+- **Regeerakkoord** (Coalition agreement): De afspraken tussen de coalitiepartijen voor het beleid van de komende vier jaar. / <small>The agreements between coalition parties for the policy of the next four years.</small>
+- **Staatshoofd** (Head of State): In Nederland is dit de Koning; hij heeft vooral een ceremoniële taak. / <small>In the Netherlands, this is the King; he has primarily a ceremonial role.</small>
+- **Minister** (Minister): Lid van het kabinet die verantwoordelijk is voor een specifiek onderwerp, zoals Onderwijs of Zorg. / <small>Member of the cabinet responsible for a specific topic, such as Education or Healthcare.</small>
