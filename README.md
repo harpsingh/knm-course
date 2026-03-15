@@ -17,8 +17,9 @@ De cursus is onderverdeeld in de volgende acht thema's. Klik op een titel om de 
 3.  **[Thema 3: Gezondheid (Health)](Gezondheid.md)**
     *   De huisarts, medicijnen, spoedzorg, verzekeringen en zorg voor kinderen.
     *   <small>(The GP, medication, emergency care, insurance, and childcare.)</small>
-4.  **Thema 4: Onderwijs en opvoeding (Education and Upbringing)**
-    *   *(Binnenkort beschikbaar / Available soon)*
+4.  **[Thema 4: Onderwijs en opvoeding (Education and Upbringing)](Onderwijs_en_opvoeding.md)**
+    *   Basisschool, middelbare school, kosten, kinderopvang en opvoeding.
+    *   <small>(Primary school, secondary school, costs, childcare, and upbringing.)</small>
 5.  **Thema 5: Werk en inkomen (Work and Income)**
     *   *(Binnenkort beschikbaar / Available soon)*
 6.  **Thema 6: Instanties (Institutions)**
