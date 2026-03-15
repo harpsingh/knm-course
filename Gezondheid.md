@@ -1,44 +1,123 @@
-# Thema 3: Gezondheid (Health)
+# Thema 3: Gezondheid (Theme 3: Health)
 
 In dit thema bespreken we hoe de gezondheidszorg in Nederland werkt. Je leert over de rol van de huisarts, wat je moet doen in noodgevallen, hoe het systeem van zorgverzekeringen in elkaar zit en welke zorg er is voor kinderen.
 (In this theme, we discuss how healthcare in the Netherlands works. You will learn about the role of the GP, what to do in emergencies, how the health insurance system is structured, and what care is available for children.)
 
-## 1. De Huisarts en Medicijnen (The GP and Medication)
+## 1. De Huisarts (The GP)
 
-| Nederlands | English |
-| :--- | :--- |
-| **De Poortwachter van de Zorg**<br><br>Als je medische klachten hebt, ga je in Nederland altijd eerst naar de **huisarts**. De huisarts is de 'poortwachter': hij of zij beoordeelt of je zelf kunt herstellen of dat een **specialist** in het ziekenhuis nodig is. Zonder een **verwijsbrief** van de huisarts wordt een bezoek aan het ziekenhuis meestal niet vergoed. Nederlandse artsen zijn vaak terughoudend met het voorschrijven van medicijnen zoals antibiotica; ze wachten liever af of een ziekte vanzelf overgaat om bijwerkingen te voorkomen. Voor eenvoudige klachten wordt vaak rust en paracetamol geadviseerd. | **The Gatekeeper of Care**<br><br>If you have medical complaints, you always go to the **GP** (huisarts) first in the Netherlands. The GP is the 'gatekeeper': he or she assesses whether you can recover on your own or if a **specialist** in the hospital is needed. Without a **referral letter** from the GP, a visit to the hospital is usually not reimbursed. Dutch doctors are often cautious about prescribing medications such as antibiotics; they prefer to wait and see if an illness passes on its own to prevent side effects. For simple complaints, rest and paracetamol are often advised. |
-| **Medicijnen en de Apotheek**<br><br>Er zijn twee soorten medicijnen: zelfzorgmiddelen en medicijnen op recept. Zelfzorgmiddelen zoals paracetamol kun je zonder recept kopen bij de **drogisterij** of **apotheek**. Voor zwaardere medicijnen heb je een recept van een arts nodig, die je ophaalt bij de apotheek. Het is verstandig om je bij één vaste apotheek te registreren; zij houden dan precies bij welke medicijnen je gebruikt en of deze veilig samen gebruikt kunnen worden. Voor veel medicijnen op recept moet je een kleine **eigen bijdrage** betalen. | **Medication and the Pharmacy**<br><br>There are two types of medication: over-the-counter (OTC) drugs and prescription drugs. OTC drugs like paracetamol can be bought without a prescription at the **drugstore** (drogisterij) or **pharmacy** (apotheek). For stronger medications, you need a prescription from a doctor, which you collect at the pharmacy. It is wise to register with one fixed pharmacy; they will then keep track of exactly which medications you use and whether they can be safely used together. For many prescription drugs, you must pay a small **personal contribution**. |
+### 🇳🇱 Nederlands
+**De Poortwachter van de Zorg**
 
-## 2. Spoed en Noodgevallen (Emergency Care)
+In Nederland begint de gezondheidszorg bijna altijd bij de **huisarts**. De huisarts kan je informeren, onderzoeken en eventueel behandelen. Hij of zij is de 'poortwachter': de huisarts bepaalt of je naar een **specialist** in het ziekenhuis moet of naar een psycholoog. Zonder een **verwijsbrief** van de huisarts wordt een bezoek aan het ziekenhuis meestal niet vergoed. Je mag zelf je huisarts kiezen en je moet je daar laten inschrijven. Soms is een praktijk vol en moet je een andere zoeken. Het is belangrijk om je oude huisarts te vragen je medisch dossier naar de nieuwe huisarts te sturen; hiervoor moet je zelf toestemming geven. Je mag maar één huisarts tegelijk hebben.
 
-| Nederlands | English |
-| :--- | :--- |
-| **Wanneer Bel je Wie?**<br><br>Bij een levensbedreigende situatie bel je direct het alarmnummer **112**. Heb je dringend medische hulp nodig buiten kantoortijden, maar is het niet levensbedreigend? Bel dan de **Huisartsenpost (HAP)**. Ga er nooit zomaar heen, maar bel eerst voor overleg. De assistent bepaalt aan de telefoon hoe snel je hulp nodig hebt. In het ziekenhuis is de afdeling **Spoedeisende Hulp (SEH)** alleen bedoeld voor ernstige gevallen, zoals botbreuken of zware verwondingen. Voor kleine klachten in het weekend is de HAP de juiste plek. | **Who Do You Call and When?**<br><br>In a life-threatening situation, you call the emergency number **112** immediately. Do you urgently need medical help outside office hours, but it is not life-threatening? Then call the **GP Out-of-hours Clinic (HAP)**. Never just go there, but call first for consultation. The assistant determines over the phone how quickly you need help. In the hospital, the **Emergency Room (ER/SEH)** is only intended for serious cases, such as broken bones or severe injuries. For minor complaints during the weekend, the HAP is the right place. |
-| **Medische Gegevens en Toestemming**<br><br>In een spoedsituatie kan het gebeuren dat je bij een onbekende arts terechtkomt. Het is belangrijk dat deze arts weet welke medicijnen je gebruikt of waar je allergisch voor bent. Je kunt bij je eigen huisarts toestemming geven voor het elektronisch uitwisselen van je **medische gegevens**. Als je deze toestemming geeft, hebben andere artsen bij spoed direct toegang tot de belangrijkste informatie over jouw gezondheid, wat levensreddend kan zijn. | **Medical Data and Consent**<br><br>In an emergency situation, it can happen that you end up with an unknown doctor. It is important that this doctor knows which medications you use or what you are allergic to. You can give permission at your own GP for the electronic exchange of your **medical data**. If you give this consent, other doctors will have direct access to the most important information about your health in an emergency, which can be life-saving. |
+### 🇬🇧 English
+**The Gatekeeper of Care**
 
-## 3. Verzekeringen en Kosten (Insurance and Costs)
+In the Netherlands, healthcare almost always starts with the **GP** (huisarts). The GP can inform, examine, and potentially treat you. He or she is the 'gatekeeper': the GP determines whether you need to see a **specialist** in the hospital or a psychologist. Without a **referral letter** (verwijsbrief) from the GP, a visit to the hospital is usually not reimbursed. You can choose your own GP and you must register there. Sometimes a practice is full, and you have to find another one. It is important to ask your old GP to send your medical file to the new GP; you must give permission for this yourself. You can only have one GP at a time.
 
-| Nederlands | English |
-| :--- | :--- |
-| **De Verplichte Basisverzekering**<br><br>Iedereen die in Nederland woont of werkt, is verplicht om een **basisverzekering** af te sluiten. Deze verzekering dekt de belangrijkste zorgkosten, zoals de huisarts en het ziekenhuis. Kinderen tot 18 jaar zijn gratis meeverzekerd. Je betaalt maandelijks een **premie** aan de zorgverzekeraar. Mensen met een laag inkomen kunnen **zorgtoeslag** aanvragen bij de overheid om deze kosten te dekken. Naast de basisverzekering kun je een **aanvullende verzekering** afsluiten voor zaken die niet standaard gedekt zijn, zoals de **tandarts** voor volwassenen of fysiotherapie. | **The Mandatory Basic Insurance**<br><br>Everyone who lives or works in the Netherlands is obliged to take out **basic insurance**. This insurance covers the most important healthcare costs, such as the GP and the hospital. Children under 18 are insured for free. You pay a monthly **premium** to the health insurer. People with a low income can apply for **healthcare allowance** from the government to cover these costs. In addition to basic insurance, you can take out **supplementary insurance** for matters that are not covered as standard, such as the **dentist** for adults or physiotherapy. |
-| **Het Eigen Risico**<br><br>Voor de meeste zorg in de basisverzekering geldt een verplicht **eigen risico** (bijvoorbeeld €385 per jaar). Dit betekent dat je de eerste zorgkosten tot dat bedrag zelf moet betalen voordat de verzekering gaat vergoeden. **Belangrijk:** Een bezoek aan de huisarts valt **niet** onder het eigen risico; dit kost je dus nooit extra geld. Medicijnen, bloedonderzoek en behandelingen in het ziekenhuis vallen echter wel onder het eigen risico. | **The Deductible (Own Risk)**<br><br>For most care in the basic insurance, a mandatory **deductible** applies (for example €385 per year). This means you have to pay the first healthcare costs up to that amount yourself before the insurance starts reimbursing. **Important:** A visit to the GP is **not** subject to the deductible; therefore, it never costs you extra money. However, medication, blood tests, and treatments in the hospital do fall under the deductible. |
+---
 
-## 4. Zwangerschap en Kinderzorg (Pregnancy and Childcare)
+### 🇳🇱 Nederlands
+**Praktische Zaken bij de Huisarts**
 
-| Nederlands | English |
-| :--- | :--- |
-| **Geboorte en Kraamzorg**<br><br>Tijdens de zwangerschap word je begeleid door een **verloskundige**. In Nederland is het heel gewoon om thuis te bevallen als er geen complicaties zijn, maar een bevalling in het ziekenhuis is ook mogelijk. Na de geboorte heb je recht op **kraamzorg**. Een kraamverzorgende komt de eerste week elke dag bij je thuis om te helpen met de verzorging van de baby en de moeder, en om advies te geven over bijvoorbeeld borstvoeding. | **Birth and Maternity Care**<br><br>During pregnancy, you are guided by a **midwife**. In the Netherlands, it is very common to give birth at home if there are no complications, but a hospital birth is also possible. After birth, you are entitled to **maternity care**. A maternity nurse comes to your home every day for the first week to help with the care of the baby and the mother and to give advice on, for example, breastfeeding. |
-| **Het Consultatiebureau**<br><br>Vanaf ongeveer vier weken gaat je kind naar het **consultatiebureau**. Hier worden de groei en ontwikkeling van je kind gevolgd door een jeugdarts of verpleegkundige. Ook krijgt je kind hier de benodigde **vaccinaties** (zoals de **DKTP-prik**) uit het Rijksvaccinatieprogramma. Je kunt hier terecht met al je vragen over opvoeding en voeding. Naast de geplande afspraken kun je vaak ook zonder afspraak terecht tijdens het **inloopspreekuur** voor korte vragen of om je baby te laten wegen. Deze zorg is gratis en gaat door tot je kind naar de basisschool gaat. | **The Child Health Center**<br><br>From about four weeks, your child goes to the **child health center** (consultatiebureau). Here, the growth and development of your child are monitored by a youth doctor or nurse. Your child also receives the necessary **vaccinations** (such as the **DKTP shot**) from the National Immunization Program here. You can come here with all your questions about upbringing and nutrition. In addition to scheduled appointments, you can often drop by without an appointment during the **walk-in hour** (inloopspreekuur) for short questions or to have your baby weighed. This care is free and continues until your child goes to primary school. |
+Als je langdurig ziek bent, kun je ook te maken krijgen met een **praktijkondersteuner** (POH). Deze assistent kan taken van de huisarts overnemen en heeft vaak meer tijd voor je. Spreek je nog niet goed Nederlands? Dan mag je een tolk inschakelen of iemand meenemen die voor je vertaalt. Een arts heeft **geheimhoudingsplicht**, wat betekent dat hij niet zomaar met anderen over jouw gezondheid mag praten zonder jouw toestemming. Voor betrouwbare medische informatie kun je kijken op de website **thuisarts.nl**.
+
+### 🇬🇧 English
+**Practical Matters at the GP**
+
+If you are chronically ill, you may also deal with a **nurse practitioner** (praktijkondersteuner/POH). This assistant can take over tasks from the GP and often has more time for you. Do you not speak Dutch well yet? Then you can use an interpreter or bring someone with you to translate. A doctor has a **duty of confidentiality**, which means he cannot simply talk to others about your health without your permission. For reliable medical information, you can check the website **thuisarts.nl**.
+
+---
+
+## 2. Medicijnen en Apotheek (Medication and Pharmacy)
+
+### 🇳🇱 Nederlands
+**Voorzichtig met Medicijnen**
+
+Nederlandse artsen schrijven niet snel medicijnen voor. Ze weten dat medicijnen bijwerkingen kunnen hebben. Als een arts denkt dat een ziekte vanzelf overgaat, krijg je vaak het advies om rust te nemen en af te wachten. Je kunt altijd bellen als het niet beter gaat. Er zijn **zelfzorgmedicijnen**, zoals paracetamol, die je zonder recept kunt kopen bij de **drogisterij** of **apotheek**. Voor de meeste andere medicijnen heb je een recept van een arts nodig.
+
+### 🇬🇧 English
+**Cautious with Medication**
+
+Dutch doctors do not prescribe medication quickly. They know that medications can have side effects. If a doctor thinks an illness will pass on its own, you are often advised to rest and wait. You can always call if it does not get better. There are **over-the-counter medications** (zelfzorgmedicijnen), such as paracetamol, which you can buy without a prescription at the **drugstore** or **pharmacy**. For most other medications, you need a prescription from a doctor.
+
+---
+
+### 🇳🇱 Nederlands
+**De Apotheek**
+
+Met een recept haal je medicijnen op bij de **apotheek**. Het is slim om je bij één apotheek te registreren; de apotheker houdt dan bij welke medicijnen je gebruikt en geeft uitleg over hoe je ze moet innemen. Voor veel medicijnen moet je een **eigen bijdrage** betalen. De apotheker controleert ook of verschillende medicijnen wel veilig samen gebruikt kunnen worden.
+
+### 🇬🇧 English
+**The Pharmacy**
+
+With a prescription, you collect medication from the **pharmacy** (apotheek). It is smart to register at one pharmacy; the pharmacist then keeps track of which medications you use and explains how to take them. For many medications, you have to pay a **personal contribution** (eigen bijdrage). The pharmacist also checks whether different medications can be safely used together.
+
+---
+
+## 3. Spoedzorg (Emergency Care)
+
+### 🇳🇱 Nederlands
+**Wanneer bel je wie?**
+
+Bij een levensbedreigende situatie bel je direct **112**. Je krijgt dan vragen over welke hulpdienst je nodig hebt (politie, brandweer of ambulance), waar je bent en wat er is gebeurd. Voor spoed buiten kantoortijden die niet levensbedreigend is, bel je de **huisartsenpost (HAP)**. Bel altijd eerst; de medewerker geeft advies of maakt een afspraak. De HAP kan je indien nodig doorverwijzen naar de **spoedeisende hulp (SEH)** van een ziekenhuis. Wees altijd duidelijk over je klachten en gebruik van medicijnen. Geef je huisarts toestemming om je **medische gegevens** uit te wisselen, zodat een onbekende arts bij spoed direct jouw belangrijkste informatie kan inzien.
+
+### 🇬🇧 English
+**Who do you call and when?**
+
+In a life-threatening situation, call **112** immediately. You will be asked which emergency service you need (police, fire, or ambulance), where you are, and what happened. For non-life-threatening emergencies outside office hours, call the **GP out-of-hours clinic (HAP)**. Always call first; the staff member will give advice or make an appointment. The HAP can refer you to the **Emergency Room (ER/SEH)** of a hospital if necessary. Always be clear about your complaints and medication use. Give your GP permission to exchange your **medical data**, so that an unknown doctor can immediately view your most important information in an emergency.
+
+---
+
+## 4. De Tandarts (The Dentist)
+
+### 🇳🇱 Nederlands
+**Een Gezond Gebit**
+
+Regelmatige mondzorg door de **tandarts** is belangrijk om je gebit gezond te houden. De tandarts controleert op gaatjes en ontstekingen en kan je doorverwijzen naar een **orthodontist** (voor een beugel) of kaakchirurg. Je mag zelf je tandarts kiezen. Een behandeling heeft een code die op de rekening staat. De kosten hangen af van de handeling en het materiaal. De zorgverzekering vergoedt de tandarts voor kinderen volledig, maar voor volwassenen heb je vaak een **aanvullende verzekering** nodig.
+
+### 🇬🇧 English
+**A Healthy Set of Teeth**
+
+Regular oral care by the **dentist** (tandarts) is important to keep your teeth healthy. The dentist checks for cavities and infections and can refer you to an **orthodontist** (for braces) or oral surgeon. You can choose your own dentist. A treatment has a code that appears on the bill. The costs depend on the procedure and the material. Health insurance fully covers the dentist for children, but for adults, you often need **supplementary insurance**.
+
+---
+
+## 5. Zorgverzekering en Kosten (Insurance and Costs)
+
+### 🇳🇱 Nederlands
+**Verzekering en Eigen Risico**
+
+Iedereen die in Nederland woont, is verplicht een **basisverzekering** te hebben. Kinderen tot 18 jaar zijn gratis meeverzekerd. Je betaalt maandelijks een **premie**. Heb je een laag inkomen? Dan kun je **zorgtoeslag** krijgen. Voor veel zorg geldt een **eigen risico** (bijvoorbeeld €385 per jaar). Dit betekent dat je de eerste kosten zelf betaalt. **Let op:** De huisarts kost je **nooit** eigen risico; een bezoek aan de huisarts is dus "gratis". Medicijnen en het ziekenhuis vallen wel onder het eigen risico.
+
+### 🇬🇧 English
+**Insurance and Deductible**
+
+Everyone living in the Netherlands is obliged to have **basic insurance**. Children under 18 are insured for free. You pay a monthly **premium**. Do you have a low income? Then you can receive **healthcare allowance** (zorgtoeslag). A **deductible** (eigen risico) applies to much care (e.g., €385 per year). This means you pay the first costs yourself. **Note:** The GP **never** costs you a deductible; a visit to the GP is therefore "free." Medication and hospital visits do fall under the deductible.
+
+---
+
+## 6. Zorg voor Kinderen (Childcare)
+
+### 🇳🇱 Nederlands
+**Het Consultatiebureau**
+
+Als je baby ongeveer vier weken oud is, ga je voor het eerst naar het **consultatiebureau**. Hier worden de groei en ontwikkeling van je kind gevolgd door een jeugdarts of verpleegkundige. Je kind krijgt hier ook de benodigde **vaccinaties** (zoals de **DKTP-prik**) uit het Rijksvaccinatieprogramma. Je kunt er terecht met al je vragen over opvoeden en voeding. Deze zorg is gratis en loopt door tot je kind naar de basisschool gaat.
+
+### 🇬🇧 English
+**The Child Health Center**
+
+When your baby is about four weeks old, you go to the **child health center** (consultatiebureau) for the first time. Here, the growth and development of your child are monitored by a youth doctor or nurse. Your child also receives the necessary **vaccinations** (such as the **DKTP shot**) from the National Immunization Program. You can go there with all your questions about upbringing and nutrition. This care is free and continues until your child goes to primary school.
+
+---
 
 ## Belangrijke Begrippen (Important Terms)
-| Nederlands | English | Definitie / Context |
-| :--- | :--- | :--- |
-| **Huisarts** | **GP / Family Doctor** | Je eerste aanspreekpunt voor alle medische vragen en de poortwachter van de zorg. |
-| **Huisartsenpost (HAP)** | **GP Out-of-hours Clinic** | De plek waar je naartoe belt voor dringende medische hulp in de avond of het weekend. |
-| **Eigen Risico** | **Deductible** | Het bedrag dat je per jaar eerst zelf moet betalen voor zorg uit de basisverzekering. |
-| **Verwijsbrief** | **Referral Letter** | Een document van de huisarts dat nodig is om een specialist in het ziekenhuis te bezoeken. |
-| **Zorgtoeslag** | **Healthcare Allowance** | Geld van de overheid om mensen met een laag inkomen te helpen de zorgverzekering te betalen. |
-| **Consultatiebureau** | **Child Health Center** | Een instantie die de groei en gezondheid van kinderen tussen 0 en 4 jaar controleert. |
-| **DKTP-vaccinatie** | **DKTP Vaccination** | Inentingen tegen Difterie, Kinkhoest, Tetanus en Polio voor kinderen. |
-| **Zelfzorgmedicijnen** | **OTC Medication** | Medicijnen die je zonder recept kunt kopen, zoals paracetamol of neusspray. |
+
+- **Huisarts** (GP): Je eerste aanspreekpunt voor alle medische vragen en de poortwachter van de zorg.
+- **Huisartsenpost (HAP)** (GP Out-of-hours Clinic): Voor dringende medische hulp in de avond of het weekend.
+- **Eigen Risico** (Deductible): Het bedrag dat je per jaar eerst zelf moet betalen (behalve voor de huisarts).
+- **Zorgtoeslag** (Healthcare Allowance): Geld van de overheid om te helpen de zorgverzekering te betalen.
+- **Consultatiebureau** (Child Health Center): Instantie die de groei en gezondheid van kinderen (0-4 jaar) controleert.
+- **Verwijsbrief** (Referral Letter): Document van de huisarts dat nodig is voor de specialist in het ziekenhuis.
+- **Thuisarts.nl**: Betrouwbare website voor medische informatie en advies.
+- **DKTP-vaccinatie**: Inentingen tegen Difterie, Kinkhoest, Tetanus en Polio voor kinderen.

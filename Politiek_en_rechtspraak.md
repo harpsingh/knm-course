@@ -1,56 +1,93 @@
 # Thema 8: Politiek en rechtspraak (Theme 8: Politics and Judiciary)
 
-In dit thema leer je hoe Nederland wordt bestuurd en hoe de rechtspraak werkt. We kijken naar de regels waar iedereen zich aan moet houden, hoe we onze volksvertegenwoordigers kiezen en hoe de macht in Nederland is verdeeld om misbruik te voorkomen.
-(In this theme, you will learn how the Netherlands is governed and how the judiciary works. We look at the rules everyone must follow, how we elect our representatives, and how power is divided in the Netherlands to prevent abuse.)
+In dit thema leer je hoe Nederland wordt bestuurd en hoe de rechtspraak werkt. We kijken naar de regels waar iedereen zich aan moet houden, hoe we onze volksvertegenwoordigers kiezen en hoe de macht in Nederland is verdeeld.
+(In this theme, you will learn how the Netherlands is governed and how the judiciary works. We look at the rules that everyone must follow, how we elect our representatives, and how power is distributed in the Netherlands.)
 
-## 1. Wetten en de Grondwet (Laws and the Constitution)
+## 1. De Scheiding van Machten (Separation of Powers)
 
-| Nederlands | English |
-| :--- | :--- |
-| **De Basis van de Samenleving**<br><br>De **Grondwet** is de belangrijkste **wet** van Nederland en vormt de basis van onze democratie. Hierin staan de belangrijkste rechten van burgers, zoals het **recht op gelijke behandeling** en het verbod op **discriminatie**. Ook zaken als de **vrijheid van meningsuiting** en **vrijheid van godsdienst** zijn hierin vastgelegd. Dit betekent dat iedereen mag geloven wat hij wil en mag zeggen wat hij denkt, zolang je anderen niet **beledigt** of aanzet tot **haat**. In Nederland hebben volwassenen ook het recht op **zelfbeschikking**, wat betekent dat je zelf mag beslissen over zaken als **abortus**, **euthanasie** en **orgaandonatie**. | **The Basis of Society**<br><br>The **Constitution** is the most important **law** of the Netherlands and forms the basis of our democracy. It contains the most important rights of citizens, such as the **right to equal treatment** and the prohibition of **discrimination**. Matters such as **freedom of speech** and **freedom of religion** are also established in it. This means that everyone can believe what they want and say what they think, as long as you do not **insult** others or incite **hatred**. In the Netherlands, adults also have the right to **self-determination**, which means you can decide for yourself on matters such as **abortion**, **euthanasia**, and **organ donation**. |
-| **Veiligheid en Respect**<br><br>Naast rechten hebben we ook de plicht om elkaar te **respecteren**. Alle vormen van **geweld** en **mishandeling** zijn verboden. Dit geldt ook binnen het gezin; **huiselijk geweld** of **seksueel misbruik** is strafbaar. Als je je onveilig voelt thuis, kun je contact opnemen met **Veilig Thuis**, een speciaal **meldpunt**. De overheid beschermt ook kwetsbare groepen, zoals de **LBHTIQ+** gemeenschap, en zorgt ervoor dat iedereen veilig en vrij kan leven in Nederland. | **Safety and Respect**<br><br>In addition to rights, we also have the duty to **respect** each other. All forms of **violence** and **abuse** are prohibited. This also applies within the family; **domestic violence** or **sexual abuse** is a criminal offense. If you feel unsafe at home, you can contact **Safe Home** (Veilig Thuis), a special **reporting point**. The government also protects vulnerable groups, such as the **LGBTQI+** community, and ensures that everyone can live safely and freely in the Netherlands. |
+### 🇳🇱 Nederlands
+**Drie Machten**
 
-## 2. Scheiding van de Machten (Separation of Powers)
+In Nederland is de politieke macht gescheiden om te voorkomen dat één persoon of partij alle macht krijgt. Dit heet de **Trias Politica**. Er zijn drie machten:
+1.  **Wetgevende macht**: De volksvertegenwoordigers (Tweede en Eerste Kamer) die wetten bedenken en goedkeuren.
+2.  **Uitvoerende macht**: De bestuurders (ministers en ambtenaren) die de wetten uitvoeren.
+3.  **Rechterlijke macht**: De onafhankelijke rechters die straffen opleggen als de wet wordt overtreden.
+Zo zorgen we ervoor dat burgers veilig en vrij kunnen leven. Ook is er een **scheiding tussen kerk en staat**, wat betekent dat religieuze instanties geen invloed hebben op de wetten van het land. Nederland is een **seculiere staat** waar **godsdienstvrijheid** geldt.
 
-| Nederlands | English |
-| :--- | :--- |
-| **Machtsmisbruik Voorkomen**<br><br>In Nederland is de **politieke macht** verdeeld over drie verschillende groepen. Dit noemen we de **scheiding van machten** of de **Trias Politica**. We doen dit om te voorkomen dat één persoon of één partij alle macht krijgt, want dat kan leiden tot corruptie en onrecht. De **wetgevende macht** (het **parlement**) bedenkt en stemt over nieuwe wetten. De **uitvoerende macht** (de **regering**) voert deze wetten uit in de praktijk. De **rechterlijke macht** (de **rechters**) controleert of iedereen zich aan de wet houdt en kan straffen opleggen als dat nodig is. | **Preventing Abuse of Power**<br><br>In the Netherlands, **political power** is divided among three different groups. This is called the **separation of powers** or the **Trias Politica**. We do this to prevent one person or one party from gaining all the power, as that can lead to corruption and injustice. The **legislative power** (**parliament**) creates and votes on new laws. The **executive power** (**government**) carries out these laws in practice. The **judicial power** (**judges**) checks whether everyone follows the law and can impose punishments if necessary. |
-| **Een Seculiere Staat**<br><br>Nederland is een **seculiere staat**, wat betekent dat de kerk en de staat strikt gescheiden zijn. Religieuze leiders hebben geen politieke macht en de overheid bemoeit zich niet met de inhoud van het geloof van burgers. Dit zorgt ervoor dat de wetten voor iedereen gelijk zijn, ongeacht hun religieuze achtergrond. **Ambtenaren** en bestuurders moeten hun werk doen op basis van de wet en niet op basis van persoonlijke of religieuze overtuigingen. | **A Secular State**<br><br>The Netherlands is a **secular state**, which means that the church and the state are strictly separated. Religious leaders have no political power, and the government does not interfere with the content of citizens' faith. This ensures that laws are the same for everyone, regardless of their religious background. **Civil servants** and administrators must do their work based on the law and not based on personal or religious beliefs. |
+### 🇬🇧 English
+**Three Powers**
 
-## 3. Democratie en Verkiezingen (Democracy and Elections)
+In the Netherlands, political power is separated to prevent one person or party from gaining all the power. This is called the **Separation of Powers** (Trias Politica). There are three powers:
+1.  **Legislative power**: The representatives (House of Representatives and Senate) who devise and approve laws.
+2.  **Executive power**: The administrators (ministers and civil servants) who implement the laws.
+3.  **Judiciary**: The independent judges who impose penalties if the law is violated.
+This ensures that citizens can live safely and freely. There is also a **separation of church and state**, which means that religious institutions have no influence on the laws of the country. The Netherlands is a **secular state** where **freedom of religion** applies.
 
-| Nederlands | English |
-| :--- | :--- |
-| **Jouw Stem Telt**<br><br>Nederland is een **democratie** waarin het volk regeert via **volksvertegenwoordigers**. Iedere Nederlander van 18 jaar of ouder heeft **actief kiesrecht** en mag dus **stemmen**. Ook heb je **passief kiesrecht**, wat betekent dat je jezelf verkiesbaar mag stellen om in een **gemeenteraad** of het parlement te komen. Het is belangrijk om te gaan stemmen omdat je zo invloed hebt op het **beleid** van het land. Politieke partijen hebben verschillende **standpunten** over thema's als studiefinanciering, milieu en het drugsbeleid. Omdat de **opkomst** onder ouderen vaak hoger is dan onder jongeren, is het extra belangrijk voor jongeren om te stemmen; hun stem kan het verschil maken tussen wel of geen zetel voor een partij. | **Your Vote Counts**<br><br>The Netherlands is a **democracy** in which the people rule through **representatives**. Every Dutch citizen aged 18 or older has the **active right to vote** and may therefore **vote**. You also have **passive right to vote**, which means you can run for election to join a **city council** or parliament. It is important to vote because it gives you influence over the **policy** of the country. Political parties have different **viewpoints** on themes such as study finance, the environment, and drug policy. Because the **turnout** among older people is often higher than among young people, it is extra important for young people to vote; their vote can make the difference in whether a party gets a seat or not. |
-| **Geschiedenis van het Stemrecht**<br><br>Het recht om te stemmen is in Nederland niet altijd vanzelfsprekend geweest. Pas sinds 1917 mogen alle mannen stemmen, en in 1919 kregen ook alle vrouwen dit recht. Zelfs de leeftijdsgrens is door de jaren heen veranderd. Tot 1965 mocht je pas stemmen als je 24 jaar oud was. Daarna ging de grens omlaag naar 21 jaar, en pas in 1971 werd de huidige grens van 18 jaar ingesteld. Stemmen is dus een kostbaar recht waar lang voor gestreden is. | **History of Voting Rights**<br><br>The right to vote in the Netherlands has not always been a given. It was not until 1917 that all men were allowed to vote, and in 1919, all women were also granted this right. Even the age limit has changed over the years. Until 1965, you could only vote if you were 24 years old. After that, the limit was lowered to 21 years, and it was not until 1971 that the current limit of 18 years was established. Voting is therefore a precious right that was fought for for a long time. |
-| **Hoe je Stemt**<br><br>Vlak voor de **verkiezingen** krijg je een **stempas** en een **kieslijst** thuisgestuurd. Op de dag van de verkiezingen ga je naar een **stembureau**, vaak een school of buurthuis in de buurt. Daar laat je je paspoort of identiteitsbewijs zien en ga je een **stemhokje** in zodat niemand kan zien op wie je stemt. Je gebruikt een rood potlood om het **vakje** voor de naam van jouw kandidaat op het **stembiljet** in te kleuren. Daarna vouw je het biljet op en stop je het in de stembus. | **How You Vote**<br><br>Just before the **elections**, you will receive a **voting pass** and a **ballot list** at home. On election day, you go to a **polling station**, often a nearby school or community center. There, you show your passport or identity document and enter a **voting booth** so that no one can see who you are voting for. You use a red pencil to color in the **box** in front of the name of your candidate on the **ballot paper**. Then you fold the paper and put it in the ballot box. |
+---
 
-## 4. De Koning en de Regering (The King and the Government)
+## 2. Democratie en Verkiezingen (Democracy and Elections)
 
-| Nederlands | English |
-| :--- | :--- |
-| **De Constitutionele Monarchie**<br><br>Nederland is een **monarchie**, wat betekent dat we een **koning** als staatshoofd hebben. Onze koning heeft echter geen politieke macht; zijn rol is vooral **symbolisch** en ceremonieel. Hij vertegenwoordigt Nederland tijdens een **staatsbezoek** en ondertekent wetten nadat ze zijn aangenomen door het parlement. Elk jaar op **Prinsjesdag** (de derde dinsdag van september) leest de koning de troonrede voor, waarin de plannen van de **regering** voor het komende jaar staan. | **The Constitutional Monarchy**<br><br>The Netherlands is a **monarchy**, which means we have a **king** as head of state. However, our king has no political power; his role is mainly **symbolic** and ceremonial. He represents the Netherlands during a **state visit** and signs laws after they have been passed by parliament. Every year on **Prince's Day** (the third Tuesday of September), the king reads the speech from the throne, which contains the **government's** plans for the coming year. |
-| **Het Bestuur van het Land**<br><br>De **regering** bestaat uit de koning en de **ministers**. Het **kabinet** bestaat uit de ministers en **staatssecretarissen**, geleid door de **minister-president**. Omdat er veel verschillende partijen zijn, moet er bijna altijd een **coalitie** worden gevormd: een samenwerking tussen partijen die samen een **meerderheid** (minimaal 76 zetels) hebben in de **Tweede Kamer**. De partijen die niet in de regering zitten, vormen de **oppositie**. Zij controleren de regering kritisch. | **Governing the Country**<br><br>The **government** consists of the king and the **ministers**. The **cabinet** consists of the ministers and **secretaries of state**, led by the **Prime Minister**. Because there are many different parties, a **coalition** almost always has to be formed: a collaboration between parties that together have a **majority** (at least 76 seats) in the **House of Representatives**. The parties that are not in the government form the **opposition**. They critically monitor the government. |
+### 🇳🇱 Nederlands
+**Stemrecht en Politieke Partijen**
 
-## 5. Uitvoering en Europa (Implementation and Europe)
+Nederland is een **parlementaire democratie**. Iedere Nederlander van 18 jaar of ouder heeft **actief kiesrecht** (mag stemmen) en **passief kiesrecht** (mag gekozen worden). Ook niet-Nederlanders die minimaal vijf jaar legaal in Nederland wonen, mogen stemmen voor de **gemeenteraad**. Politieke partijen worden vaak verdeeld in **links** (meer invloed van de overheid, meer belastingen voor hulp) en **rechts** (minder invloed, mensen moeten zelf geld verdienen). Voor de verkiezingen maakt elke partij een **verkiezingsprogramma** met hun plannen. Naast de landelijke verkiezingen zijn er verkiezingen voor de provincie, het Europees Parlement en de **waterschappen**.
 
-| Nederlands | English |
-| :--- | :--- |
-| **Overheidsinstanties**<br><br>Wetten en regels worden in de praktijk gebracht door verschillende **uitvoeringsorganisaties**. De **Belastingdienst** zorgt voor het innen van belastingen, het **UWV** regelt uitkeringen voor mensen die niet kunnen werken, en **DUO** is verantwoordelijk voor studiefinanciering. Deze organisaties voeren het **beleid** uit dat in Den Haag door de politiek is beslist. Burgers hebben dagelijks te maken met deze instanties voor hun rechten en plichten. | **Government Agencies**<br><br>Laws and rules are put into practice by various **executive organizations**. The **Tax Authorities** take care of collecting taxes, the **UWV** manages benefits for people who cannot work, and **DUO** is responsible for student finance. These organizations carry out the **policy** decided by politics in The Hague. Citizens deal with these agencies daily for their rights and duties. |
-| **Nederland in Europa**<br><br>Nederland is een **lidstaat** van de **Europese Unie (EU)**. Veel wetten waar we ons aan moeten houden, worden op Europees niveau gemaakt. Binnen de EU is er een **interne markt**, wat betekent dat er vrij verkeer is van personen, **goederen** en diensten. De meeste landen in de EU gebruiken dezelfde munt, de **euro**, in de zogenaamde **eurozone**. We stemmen ook voor het **Europees parlement** om invloed uit te oefenen op de regels die voor heel Europa gelden, zoals milieunormen en handelsverdragen. | **The Netherlands in Europe**<br><br>The Netherlands is a **member state** of the **European Union (EU)**. Many laws we must follow are made at the European level. Within the EU, there is an **internal market**, which means there is free movement of people, **goods**, and services. Most countries in the EU use the same currency, the **euro**, in the so-called **eurozone**. We also vote for the **European Parliament** to influence the rules that apply to all of Europe, such as environmental standards and trade treaties. |
+### 🇬🇧 English
+**Voting Rights and Political Parties**
+
+The Netherlands is a **parliamentary democracy**. Every Dutch citizen aged 18 or older has **active suffrage** (may vote) and **passive suffrage** (may be elected). Non-Dutch citizens who have lived legally in the Netherlands for at least five years may also vote for the **municipal council**. Political parties are often divided into **left** (more government influence, more taxes for aid) and **right** (less influence, people must earn money themselves). Before the elections, each party creates an **election program** with their plans. In addition to national elections, there are elections for the province, the European Parliament, and the **water boards**.
+
+---
+
+### 🇳🇱 Nederlands
+**Hoe kun je stemmen?**
+
+Als er verkiezingen zijn, krijg je een **stempas** en een kieslijst thuisgestuurd. Op de dag van de verkiezingen ga je met je stempas en een identiteitsbewijs naar een **stembureau**. In het stemhokje kleur je met een rood potlood het vakje in bij de persoon van jouw keuze. Het is een geheim proces; niemand mag meekijken. Daarna vouw je het biljet op en stop je het in de **stembus**. Jouw stem telt echt, want elke zetel kan het verschil maken in het beleid van het land.
+
+### 🇬🇧 English
+**How can you vote?**
+
+When there are elections, you will be sent a **polling card** (stempas) and a list of candidates. On election day, you go to a **polling station** (stembureau) with your polling card and ID. In the voting booth, you color the box next to the person of your choice with a red pencil. It is a secret process; no one is allowed to watch. Then you fold the ballot and put it in the **ballot box** (stembus). Your vote really counts, as every seat can make a difference in the country's policy.
+
+---
+
+## 3. De Landelijke Politiek (National Politics)
+
+### 🇳🇱 Nederlands
+**Regering en Parlement**
+
+De **Tweede Kamer** heeft 150 leden en neemt de belangrijkste beslissingen. Een wet wordt aangenomen als een meerderheid (minimaal 76 leden) voor is. Omdat geen enkele partij 76 zetels heeft, moeten partijen samenwerken in een **coalitie**. De partijen die niet in de regering zitten, vormen de **oppositie**. Het **kabinet** bestaat uit de ministers en staatssecretarissen. De **Eerste Kamer** (75 leden) controleert de wetten die de Tweede Kamer heeft aangenomen. De Koning is het staatshoofd, maar heeft geen politieke macht; dit noemen we een **constitutionele monarchie**.
+
+### 🇬🇧 English
+**Government and Parliament**
+
+The **House of Representatives** (Tweede Kamer) has 150 members and makes the most important decisions. A law is passed if a majority (at least 76 members) is in favor. Because no single party has 76 seats, parties must work together in a **coalition**. The parties not in the government form the **opposition**. The **cabinet** consists of ministers and state secretaries. The **Senate** (Eerste Kamer, 75 members) checks the laws passed by the House of Representatives. The King is the head of state but has no political power; we call this a **constitutional monarchy**.
+
+---
+
+## 4. Rechten en Wetten (Rights and Laws)
+
+### 🇳🇱 Nederlands
+**Grondrechten en Belangrijke Wetten**
+
+De **Grondwet** is de belangrijkste wet van Nederland. Hierin staan je rechten, zoals het recht op **gelijke behandeling** (discriminatie is verboden) en de **vrijheid van meningsuiting**. Ook heb je recht op **zelfbeschikking**; vanaf 16 jaar mag je eigen keuzes maken over je lichaam en religie. In Nederland zijn er wetten die in veel andere landen niet bestaan, zoals de **abortuswet** (tot 24 weken) en de **euthanasiewet**. Ook mag je je in het **donorregister** registreren voor orgaandonatie. Geweld en **ongewenste intimiteit** zijn streng verboden; als je hiermee te maken krijgt, kun je dit melden bij de politie of bij **Veilig Thuis**.
+
+### 🇬🇧 English
+**Fundamental Rights and Important Laws**
+
+The **Constitution** (Grondwet) is the most important law in the Netherlands. It contains your rights, such as the right to **equal treatment** (discrimination is prohibited) and **freedom of speech**. You also have the right to **self-determination**; from the age of 16, you can make your own choices about your body and religion. In the Netherlands, there are laws that do not exist in many other countries, such as the **abortion law** (up to 24 weeks) and the **euthanasia law**. You can also register in the **donor register** for organ donation. Violence and **unwanted intimacy** are strictly prohibited; if you encounter this, you can report it to the police or to **Veilig Thuis** (Safe Home).
+
+---
 
 ## Belangrijke Begrippen (Important Terms)
-| Nederlands | English | Definitie / Context |
-| :--- | :--- | :--- |
-| **Grondwet** | **Constitution** | De belangrijkste wet van Nederland met alle basisrechten van burgers. |
-| **Trias Politica** | **Separation of Powers** | De verdeling van de macht in wetgevende, uitvoerende en rechterlijke macht. |
-| **Actief kiesrecht** | **Active right to vote** | Het recht om je stem uit te brengen bij verkiezingen (vanaf 18 jaar). |
-| **Passief kiesrecht** | **Passive right to vote** | Het recht om jezelf verkiesbaar te stellen voor een politieke functie. |
-| **Coalitie** | **Coalition** | Een samenwerking tussen twee of meer politieke partijen om een regering te vormen. |
-| **Oppositie** | **Opposition** | De politieke partijen in het parlement die niet in de regering zitten. |
-| **Zetel** | **Seat** | Een plaats in de Eerste of Tweede Kamer (er zijn 150 zetels in de Tweede Kamer). |
-| **Prinsjesdag** | **Prince's Day** | De dag waarop de koning de troonrede voorleest en de begroting wordt gepresenteerd. |
-| **Rechtsstaat** | **Rule of Law** | Een land waarin de overheid zich ook aan de wet moet houden en burgers beschermd zijn. |
-| **Seculier** | **Secular** | Een scheiding tussen kerk en staat; religie heeft geen directe politieke macht. |
-| **Veilig Thuis** | **Safe Home** | Het centrale meldpunt voor huiselijk geweld en kindermishandeling. |
-| **UWV / DUO** | **UWV / DUO** | Voorbeelden van instanties die wetten uitvoeren (werk/uitkering en studie). |
+
+- **Trias Politica** (Separation of Powers): De verdeling van de macht in wetgevende, uitvoerende en rechterlijke macht.
+- **Coalitie** (Coalition): Een samenwerking tussen verschillende politieke partijen om samen te regeren.
+- **Oppositie** (Opposition): De politieke partijen die niet in de regering zitten en de plannen kritisch volgen.
+- **Grondwet** (Constitution): De wet waarin de belangrijkste regels en rechten van alle burgers staan.
+- **Seculiere staat** (Secular State): Een land waar de kerk en de staat strikt gescheiden zijn.
+- **Stempas** (Polling Card): Het document dat je nodig hebt om te mogen stemmen bij verkiezingen.
+- **Veilig Thuis** (Safe Home): Het meldpunt voor huiselijk geweld en kindermishandeling.
+- **Zelfbeschikking** (Self-determination): Het recht om eigen keuzes te maken over je eigen leven en lichaam.
+- **Eerste en Tweede Kamer** (Senate and House of Representatives): Samen vormen zij het parlement van Nederland.
+- **Constitutionele monarchie**: Een koninkrijk waarbij de macht van de koning is vastgelegd in de Grondwet.

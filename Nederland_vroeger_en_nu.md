@@ -1,52 +1,97 @@
 # Thema 7: Nederland vroeger en nu (Theme 7: The Netherlands Past and Present)
 
-In dit thema leer je over de geschiedenis en geografie van Nederland. Je leert hoe Nederland is ontstaan, over belangrijke gebeurtenissen zoals de Gouden Eeuw en de Tweede Wereldoorlog, en hoe het landschap eruitziet.
-(In this theme, you will learn about the history and geography of the Netherlands. You will learn how the Netherlands originated, about important events such as the Golden Age and the Second World War, and what the landscape looks like.)
+In dit thema leer je over de geschiedenis en geografie van Nederland. We kijken naar het ontstaan van het land, belangrijke historische gebeurtenissen zoals de Tweede Wereldoorlog, en hoe Nederland zich heeft ontwikkeld tot de multiculturele samenleving van nu.
+(In this theme, you will learn about the history and geography of the Netherlands. We look at the origin of the country, important historical events such as World War II, and how the Netherlands has developed into the multicultural society of today.)
 
-## Het Land (The Country)
+## 1. Geografie en Steden (Geography and Cities)
 
-| Nederlands | English |
-| :--- | :--- |
-| **Nederland en het Water**<br><br>Nederland is een klein, **dichtbevolkt** land aan de **Noordzee**. Een groot deel van het land ligt laag, zelfs onder de **zeespiegel**. Om het land te beschermen tegen het water, hebben Nederlanders **dijken** en duinen gebouwd. Veel land is **polder**: land dat vroeger water was en is drooggemaakt. Het **IJsselmeer** was vroeger een zee (de Zuiderzee), maar is door de **Afsluitdijk** een meer geworden. Er zijn ook veel grote **rivieren** die door Nederland stromen. | **The Netherlands and Water**<br><br>The Netherlands is a small, **densely populated** country on the **North Sea**. A large part of the country lies low, even below **sea level**. To protect the land from the water, the Dutch have built **dikes** and dunes. Much land is **polder**: land that used to be water and has been reclaimed. The **IJsselmeer** used to be a sea (the Zuiderzee), but has become a lake due to the **Afsluitdijk** (Enclosure Dam). There are also many large **rivers** flowing through the Netherlands. |
-| **Provincies en Steden**<br><br>Nederland heeft twaalf **provincies**, elk met een eigen **hoofdstad**. In het noorden liggen de **Waddeneilanden**. Het gebied in het westen tussen Amsterdam, Den Haag, Rotterdam en Utrecht heet de **Randstad**; hier wonen en werken de meeste mensen. Amsterdam is de hoofdstad en bekend om de **grachten**. Rotterdam heeft de grootste **haven** van Europa. Schiphol is de grootste luchthaven. | **Provinces and Cities**<br><br>The Netherlands has twelve **provinces**, each with its own **capital**. In the north lie the **Wadden Islands**. The area in the west between Amsterdam, The Hague, Rotterdam, and Utrecht is called the **Randstad**; most people live and work here. Amsterdam is the capital and famous for its **canals**. Rotterdam has the largest **port** in Europe. Schiphol is the largest airport. |
+### 🇳🇱 Nederlands
+**Het Land en de Provincies**
 
-## Geschiedenis: Het Ontstaan van Nederland (History: The Origin of the Netherlands)
+Nederland is een klein en dichtbevolkt land in West-Europa, ongeveer 300 kilometer lang en 180 kilometer breed. Er wonen meer dan 17 miljoen mensen. Het land heeft twaalf **provincies**, elk met een eigen bestuur en hoofdstad. Nederland is een vlak land; een groot deel ligt onder de zeespiegel. **Dijken**, duinen en **polders** (drooggemaakt land) zorgen ervoor dat het land veilig blijft. Het hoogste punt is slechts 322 meter hoog (in Zuid-Limburg). Er is veel water, met grote rivieren zoals de Rijn, de Waal en de Maas die uitmonden in de Noordzee. Het grootste meer is het **IJsselmeer**, dat vroeger een zee was (de Zuiderzee) tot de **Afsluitdijk** werd gebouwd.
 
-| Nederlands | English |
-| :--- | :--- |
-| **De Republiek en de Gouden Eeuw**<br><br>In 1519 bestond Nederland uit losse landjes. Tijdens de 80-jarige oorlog tegen Spanje (begonnen in 1568) werd Willem van Oranje een belangrijke leider. Het **Wilhelmus**, het volkslied, gaat over hem. In de 17e eeuw, de **Gouden Eeuw**, werd Nederland erg rijk door de **handel** met onder andere Azië (VOC). Beroemde schilders zoals Rembrandt (de **Nachtwacht**) leefden in deze tijd. Nederland veroverde ook gebieden (koloniën) zoals Indonesië en Suriname. | **The Republic and the Golden Age**<br><br>In 1519, the Netherlands consisted of separate small lands. During the 80-Year War against Spain (started in 1568), William of Orange became an important leader. The **Wilhelmus**, the national anthem, is about him. In the 17th century, the **Golden Age**, the Netherlands became very wealthy through **trade** with Asia (VOC) among others. Famous painters like Rembrandt (the **Night Watch**) lived during this time. The Netherlands also conquered territories (colonies) such as Indonesia and Suriname. |
-| **Koninkrijk en Slavernij**<br><br>In de 17e en 18e eeuw deden Nederlanders aan slavenhandel; ze kochten en verkochten mensen uit Afrika. Pas op 1 juli 1863 werd de **slavernij** afgeschaft. Dit wordt gevierd tijdens **Keti Koti**. Na de Franse tijd (Napoleon) werd Nederland in 1815 een koninkrijk onder Koning Willem I. Het land heette toen het **Koninkrijk der Nederlanden**. | **Kingdom and Slavery**<br><br>In the 17th and 18th centuries, the Dutch engaged in slave trade; they bought and sold people from Africa. **Slavery** was not abolished until July 1, 1863. This is celebrated during **Keti Koti**. After the French period (Napoleon), the Netherlands became a kingdom in 1815 under King William I. The country was then called the **Kingdom of the Netherlands**. |
+### 🇬🇧 English
+**The Land and the Provinces**
 
-## De Tweede Wereldoorlog (The Second World War)
+The Netherlands is a small and densely populated country in Western Europe, about 300 kilometers long and 180 kilometers wide. More than 17 million people live there. The country has twelve **provinces**, each with its own government and capital. The Netherlands is a flat country; a large part lies below sea level. **Dikes**, dunes, and **polders** (reclaimed land) ensure that the land remains safe. The highest point is only 322 meters high (in South Limburg). There is a lot of water, with large rivers such as the Rhine, the Waal, and the Meuse that flow into the North Sea. The largest lake is the **IJsselmeer**, which used to be a sea (the Zuiderzee) until the **Afsluitdijk** was built.
 
-| Nederlands | English |
-| :--- | :--- |
-| **Bezetting en Jodenvervolging**<br><br>In mei 1940 viel Duitsland Nederland binnen. De **Tweede Wereldoorlog** was begonnen. Tijdens de bezetting moesten **Joden** een **Jodenster** dragen en werden ze weggevoerd naar concentratiekampen (de **Holocaust**). Anne Frank, een Joods meisje, schreef hierover in haar dagboek terwijl ze **onderduiker** was. Zij overleefde de oorlog niet. | **Occupation and Persecution of Jews**<br><br>In May 1940, Germany invaded the Netherlands. The **Second World War** had begun. During the occupation, **Jews** had to wear a **Yellow Star** and were deported to concentration camps (the **Holocaust**). Anne Frank, a Jewish girl, wrote about this in her diary while she was in **hiding**. She did not survive the war. |
-| **Verzet en Bevrijding**<br><br>Sommige mensen kwamen in **verzet** tegen de Duitsers. De winter van 1944-1945 was erg zwaar en wordt de **hongerwinter** genoemd; veel mensen stierven door honger. Op 5 mei 1945 was Nederland weer vrij. We vieren dit elk jaar op **Bevrijdingsdag**. Op 4 mei is de **Dodenherdenking**: om 20.00 uur is het twee minuten stil om de slachtoffers te herdenken bij het **Nationaal Monument**. | **Resistance and Liberation**<br><br>Some people joined the **resistance** against the Germans. The winter of 1944-1945 was very severe and is called the **hunger winter**; many people died of starvation. On May 5, 1945, the Netherlands was free again. We celebrate this every year on **Liberation Day**. On May 4, it is **Remembrance Day**: at 8:00 PM there is two minutes of silence to commemorate the victims at the **National Monument**. |
+---
 
-## Modern Nederland (Modern Netherlands)
+### 🇳🇱 Nederlands
+**Belangrijke Steden en de Randstad**
 
-| Nederlands | English |
-| :--- | :--- |
-| **Wederopbouw en Samenwerking**<br><br>Na de oorlog moest Nederland worden opgebouwd. Nederland ging samenwerken met andere landen in de **NAVO** (militair) en later de **Europese Unie** (economisch). In 1953 was er een grote **Watersnoodramp** in Zeeland. Daarna zijn de **Deltawerken** gebouwd om het land beter te beschermen. | **Reconstruction and Cooperation**<br><br>After the war, the Netherlands had to be rebuilt. The Netherlands started cooperating with other countries in **NATO** (military) and later the **European Union** (economic). In 1953 there was a major **Flood Disaster** in Zeeland. The **Delta Works** were built afterwards to better protect the land. |
-| **Multiculturele Samenleving**<br><br>Vanaf de jaren 60 kwamen er **gastarbeiders** uit landen als Turkije en Marokko naar Nederland. Later kwamen er ook vluchtelingen uit oorlogsgebieden. Nederland is nu een **multiculturele samenleving**: mensen uit veel verschillende culturen leven samen. | **Multicultural Society**<br><br>From the 1960s onwards, **guest workers** from countries like Turkey and Morocco came to the Netherlands. Later, refugees from war zones also arrived. The Netherlands is now a **multicultural society**: people from many different cultures live together. |
+**Amsterdam** is de hoofdstad en de grootste stad, bekend om zijn grachten en de haven. Vlakbij ligt **Schiphol**, het grootste vliegveld. **Rotterdam** heeft de grootste haven van Europa (**Europoort**) en een modern centrum omdat veel oude gebouwen in 1940 zijn gebombardeerd. In **Den Haag** zit de regering en wonen de koning en koningin. **Utrecht** ligt heel centraal en heeft het grootste treinstation en de hoogste kerktoren (**Domtoren**). Het gebied tussen deze vier steden noem je de **Randstad**. Voor vervoer gebruiken veel Nederlanders de fiets of het **openbaar vervoer (ov)**. Je reist met een ov-chipkaart of betaalt met je betaalpas/telefoon.
+
+### 🇬🇧 English
+**Important Cities and the Randstad**
+
+**Amsterdam** is the capital and largest city, known for its canals and harbor. Nearby is **Schiphol**, the largest airport. **Rotterdam** has the largest harbor in Europe (**Europoort**) and a modern center because many old buildings were bombed in 1940. The government is located in **The Hague**, where the King and Queen also live. **Utrecht** is very centrally located and has the largest train station and the highest church tower (**Dom Tower**). The area between these four cities is called the **Randstad**. For transportation, many Dutch people use bicycles or **public transport (ov)**. You travel with a public transport chip card or pay with your debit card/phone.
+
+---
+
+## 2. Geschiedenis: Het Ontstaan (History: The Origin)
+
+### 🇳🇱 Nederlands
+**Van de Lage Landen naar de Gouden Eeuw**
+
+Rond 1500 bestond Nederland uit kleine landjes. In 1519 werden deze samengevoegd tot de **Lage Landen**. In 1570 hoorde Nederland bij Spanje, maar veel mensen werden protestant. De Spaanse koning wilde dat iedereen katholiek bleef, wat leidde tot een tachtigjarige oorlog. **Willem van Oranje** was een belangrijke leider in deze strijd; ons volkslied, het **Wilhelmus**, gaat over hem. De 17e eeuw (1600-1700) wordt de **Gouden Eeuw** genoemd. Nederland werd rijk door handel met Azië (peper, thee, koffie) en stichtte **koloniën** zoals Suriname en Nederlands-Indië. In deze tijd schilderde **Rembrandt** ook zijn beroemde werk, de **Nachtwacht**.
+
+### 🇬🇧 English
+**From the Low Countries to the Golden Age**
+
+Around 1500, the Netherlands consisted of small territories. In 1519, these were merged into the **Low Countries**. In 1570, the Netherlands belonged to Spain, but many people became Protestant. The Spanish King wanted everyone to remain Catholic, leading to an eighty-year war. **William of Orange** was an important leader in this struggle; our national anthem, the **Wilhelmus**, is about him. The 17th century (1600-1700) is called the **Golden Age**. The Netherlands became rich through trade with Asia (pepper, tea, coffee) and established **colonies** such as Suriname and the Dutch East Indies. During this time, **Rembrandt** also painted his famous work, the **Night Watch**.
+
+---
+
+## 3. De Tweede Wereldoorlog (World War II)
+
+### 🇳🇱 Nederlands
+**Bezetting en Jodenvervolging**
+
+In mei 1940 viel Duitsland Nederland binnen. Na het bombardement op **Rotterdam** gaf Nederland zich over. Voor **Joden** werd de situatie snel verschrikkelijk. Ze moesten een Jodenster dragen en werden vanaf 1942 afgevoerd naar kampen. Via kamp **Westerbork** gingen ze in goederenwagons naar vernietigingskampen in Polen, zoals **Auschwitz** en Sobibor. In totaal zijn 102.000 Nederlandse Joden vermoord. Ook Roma en Sinti werden vervolgd. Sommige mensen gingen in het **verzet** of hielpen Joden door ze te laten **onderduiken**. Veel andere Nederlanders hielpen de Duitsers; zij werden **NSB'ers** (landverraders) genoemd.
+
+### 🇬🇧 English
+**Occupation and Persecution of Jews**
+
+In May 1940, Germany invaded the Netherlands. After the bombing of **Rotterdam**, the Netherlands surrendered. For **Jews**, the situation quickly became terrible. They had to wear a Star of David and were deported to camps starting in 1942. Via camp **Westerbork**, they went in freight wagons to extermination camps in Poland, such as **Auschwitz** and Sobibor. In total, 102,000 Dutch Jews were murdered. Roma and Sinti were also persecuted. Some people joined the **resistance** or helped Jews by letting them **go into hiding**. Many other Dutch people helped the Germans; they were called **NSB'ers** (traitors).
+
+---
+
+### 🇳🇱 Nederlands
+**Hongerwinter en Bevrijding**
+
+In 1944 werd het zuiden van Nederland bevrijd, maar het westen kreeg te maken met de **hongerwinter**. Meer dan 20.000 mensen stierven van de honger. Begin mei 1945 volgde de totale **bevrijding** door de Amerikanen, Engelsen en Canadezen. We vieren dit elk jaar op 5 mei (**Bevrijdingsdag**). De oorlog liet diepe sporen en veel verdriet achter in de Nederlandse samenleving.
+
+### 🇬🇧 English
+**Hunger Winter and Liberation**
+
+In 1944, the south of the Netherlands was liberated, but the west faced the **Hunger Winter**. More than 20,000 people died of hunger. In early May 1945, the total **liberation** by the Americans, British, and Canadians followed. We celebrate this every year on May 5 (**Liberation Day**). The war left deep scars and much grief in Dutch society.
+
+---
+
+## 4. Na de Oorlog (After the War)
+
+### 🇳🇱 Nederlands
+**Wederopbouw en Verandering**
+
+Na de oorlog begon de wederopbouw. In 1949 werd Nederlands-Indië onafhankelijk (**Indonesië**) en in 1975 volgde **Suriname**. In 1953 werd Nederland getroffen door de **Watersnoodramp** in Zeeland, waarbij meer dan 1800 mensen omkwamen. Om dit in de toekomst te voorkomen, werden de **Deltawerken** gebouwd. Nederland begon ook economisch samen te werken in Europa, wat leidde tot de huidige **Europese Unie (EU)**. Vanaf 1960 kwamen er **gastarbeiders** uit landen als Italië, Turkije en Marokko om te werken. Dit was het begin van de huidige **multiculturele samenleving**.
+
+### 🇬🇧 English
+**Reconstruction and Change**
+
+After the war, reconstruction began. In 1949, the Dutch East Indies became independent (**Indonesia**), and in 1975 **Suriname** followed. In 1953, the Netherlands was hit by the **North Sea Flood** (Watersnoodramp) in Zeeland, in which more than 1,800 people died. To prevent this in the future, the **Delta Works** were built. The Netherlands also began to cooperate economically in Europe, which led to the current **European Union (EU)**. From 1960, **guest workers** from countries such as Italy, Turkey, and Morocco came to work. This was the beginning of today's **multicultural society**.
+
+---
 
 ## Belangrijke Begrippen (Important Terms)
 
-| Nederlands | English | Definitie / Context |
-| :--- | :--- | :--- |
-| **Afsluitdijk** | Enclosure Dam | Een grote dijk die het IJsselmeer afsluit van de Waddenzee. |
-| **Dichtbevolkt** | Densely populated | Als er veel mensen op een klein stuk grond wonen (zoals in Nederland). |
-| **Polder** | Polder | Land dat vroeger water was en drooggemaakt is, omringd door dijken. |
-| **Randstad** | Randstad | Het drukke economische gebied in het westen (Amsterdam, Rotterdam, Den Haag, Utrecht). |
-| **Gouden Eeuw** | Golden Age | De 17e eeuw, toen Nederland erg rijk en machtig was door handel. |
-| **Wilhelmus** | Wilhelmus | Het Nederlandse volkslied. |
-| **Slavernij** | Slavery | Mensen zijn niet vrij maar eigendom van iemand anders; afgeschaft in 1863. |
-| **Tweede Wereldoorlog** | Second World War | Oorlog van 1940 tot 1945; Duitsland bezette Nederland. |
-| **Jodenster** | Yellow Star | Een gele ster die Joden verplicht moesten dragen tijdens de oorlog. |
-| **Onderduiker** | Person in hiding | Iemand die zich verstopt voor de vijand (zoals Anne Frank). |
-| **Dodenherdenking** | Remembrance Day | 4 mei: herdenken van oorlogsslachtoffers (2 minuten stilte). |
-| **Bevrijdingsdag** | Liberation Day | 5 mei: feest omdat Nederland vrij is. |
-| **Watersnoodramp** | Flood Disaster | Grote overstroming in 1953, leidde tot de bouw van de Deltawerken. |
-| **Multiculturele samenleving** | Multicultural society | Een maatschappij waarin mensen van verschillende culturen samenleven. |
-| **Gastarbeider** | Guest worker | Iemand die tijdelijk naar een ander land komt om te werken (jaren '60/'70). |
+- **Provincie** (Province): Een van de twaalf gebieden waarin Nederland is verdeeld, met een eigen bestuur.
+- **Polder** (Polder): Een stuk land dat vroeger water was en nu is drooggemaakt en omringd door dijken.
+- **Gouden Eeuw** (Golden Age): De 17e eeuw, waarin Nederland heel rijk en machtig was door de handel.
+- **Kolonie** (Colony): Een gebied in een ander werelddeel dat door Nederland werd bestuurd (zoals Suriname).
+- **Verzet** (Resistance): Mensen die tijdens de oorlog stiekem tegen de Duitsers vochten.
+- **Onderduiken** (Going into hiding): Zich op een geheime plek verbergen voor de vijand (vooral Joden tijdens de oorlog).
+- **Watersnoodramp** (North Sea Flood): De grote overstroming in 1953 in het zuidwesten van Nederland.
+- **Multiculturele samenleving** (Multicultural society): Een maatschappij waarin mensen met veel verschillende culturele achtergronden samenleven.
+- **Gastarbeider** (Guest worker): Iemand die naar Nederland kwam om tijdelijk te werken, maar vaak bleef wonen.
+- **Afsluitdijk**: De 30 km lange dijk die de Zuiderzee afsloot van de Noordzee, waardoor het IJsselmeer ontstond.

@@ -1,45 +1,125 @@
-# Thema 2: Omgaan met anderen (Interacting with Others)
+# Thema 2: Omgaan met anderen (Theme 2: Interacting with Others)
 
-In dit thema leer je over de Nederlandse cultuur en sociale omgangsvormen. We bespreken hoe Nederlanders communiceren, hoe ze omgaan met afspraken en tijd, en wat de gewoontes zijn bij evenementen zoals een geboorte of overlijden.
-(In this theme, you will learn about Dutch culture and social conventions. We discuss how Dutch people communicate, how they handle appointments and time, and what the customs are for events such as a birth or death.)
+In dit thema leer je over de Nederlandse cultuur en sociale omgangsvormen. We bespreken hoe Nederlanders communiceren, hoe ze omgaan met afspraken en tijd, en wat de belangrijke waarden en gewoontes zijn in de Nederlandse samenleving.
+(In this theme, you will learn about Dutch culture and social conventions. We discuss how Dutch people communicate, how they handle appointments and time, and what the important values and customs are in Dutch society.)
 
-## 1. Directe Communicatie en Feedback (Direct Communication and Feedback)
+## 1. Communicatie en Feedback (Communication and Feedback)
 
-| Nederlands | English |
-| :--- | :--- |
-| **Zeggen wat je bedoelt**<br><br>Veel Nederlanders staan bekend om hun **directe communicatie**. Dit betekent dat ze vaak eerlijk en duidelijk zeggen wat ze denken of willen. Als een buurvrouw vraagt: "Wil je koffie?" en je antwoordt "Nee, dank je" uit beleefdheid (terwijl je eigenlijk wel koffie wilt), zal een Nederlander dat letterlijk nemen en je niets geven. In de Nederlandse cultuur wordt het als efficiënt en eerlijk gezien om direct te zijn, terwijl mensen uit andere culturen dit soms als onbeleefd of bot kunnen ervaren. Het is goed om te weten dat deze directheid meestal niet bedoeld is om te kwetsen, maar om duidelijkheid te scheppen. | **Saying What You Mean**<br><br>Many Dutch people are known for their **direct communication**. This means they often speak honestly and clearly about what they think or want. If a neighbor asks, "Would you like some coffee?" and you answer "No, thank you" out of politeness (while you actually do want coffee), a Dutch person will take that literally and give you nothing. In Dutch culture, being direct is seen as efficient and honest, while people from other cultures may sometimes experience this as rude or blunt. It is good to know that this directness is usually not intended to hurt, but to create clarity. |
-| **Feedback op het Werk**<br><br>Ook op de werkvloer is directheid de norm. Leidinggevenden en collega's geven vaak eerlijk **feedback** over wat er goed gaat en wat er verbeterd moet worden. Als een manager tegen je zegt: "Dit doe je verkeerd," is dat meestal bedoeld als hulp om je werk beter te leren doen. Een concreet voorbeeld is dat in een winkel vaak wordt verwacht dat nieuwe producten achter de oude producten worden geplaatst (zodat de oudste producten eerst worden verkocht). Als je dit andersom doet, zal een collega je daar direct op aanspreken. Veel mensen die nieuw zijn in Nederland moeten wennen aan deze directe manier van communiceren; het wordt niet gezien als een persoonlijke aanval, maar als een manier om de kwaliteit van het werk te waarborgen. | **Feedback at Work**<br><br>Directness is also the norm in the workplace. Supervisors and colleagues often give honest **feedback** about what is going well and what needs to be improved. If a manager says to you, "You're doing this wrong," it is usually intended as help to learn how to do your job better. A concrete example is that in a store, it is often expected that new products are placed behind the old products (so that the oldest products are sold first). If you do this the other way around, a colleague will address you directly. Many people who are new to the Netherlands have to get used to this direct way of communicating; it is not seen as a personal attack, but as a way to ensure the quality of the work. |
+### 🇳🇱 Nederlands
+**Directe Communicatie: Zeggen wat je bedoelt**
 
+Veel Nederlanders staan bekend om hun **directe communicatie**. Dit betekent dat ze vaak eerlijk en duidelijk zeggen wat ze denken of willen. Ze verwachten dat anderen dat ook doen. Als een buurvrouw vraagt: "Wil je koffie?" en je antwoordt "Nee, dank je" uit beleefdheid (terwijl je eigenlijk wel koffie wilt), zal een Nederlander dat letterlijk nemen en je niets geven. In veel andere culturen is meteen "ja" zeggen niet beleefd, maar in Nederland kan dit tot misverstanden leiden. Directheid wordt gezien als efficiënt en eerlijk, niet als onbeleefd.
+
+### 🇬🇧 English
+**Direct Communication: Saying What You Mean**
+
+Many Dutch people are known for their **direct communication**. This means they often speak honestly and clearly about what they think or want. They expect others to do the same. If a neighbor asks, "Would you like some coffee?" and you answer "No, thank you" out of politeness (while you actually do want coffee), a Dutch person will take that literally and give you nothing. In many other cultures, saying "yes" immediately is not considered polite, but in the Netherlands, this can lead to misunderstandings. Directness is seen as efficient and honest, not as rude.
+
+---
+
+### 🇳🇱 Nederlands
+**Feedback op het Werk**
+
+Op de werkvloer is het geven van **feedback** heel gebruikelijk. Je leidinggevende zegt vaak eerlijk wat er goed gaat en wat je moet verbeteren. Bijvoorbeeld, als je in een winkel werkt, moet je nieuwe producten achter de oude producten zetten. Als je dit verkeerd doet, zal je manager dit direct tegen je zeggen: "Dit doe je verkeerd." Dit is niet bedoeld om je te kwetsen, maar om je te helpen het werk goed te leren. In veel andere landen geven mensen minder directe feedback, maar in Nederland is het een manier om elkaar te helpen en de kwaliteit te verbeteren.
+
+### 🇬🇧 English
+**Feedback at Work**
+
+In the workplace, giving **feedback** is very common. Your supervisor will often honestly tell you what is going well and what you need to improve. For example, if you work in a store, you must place new products behind the old ones. If you do this incorrectly, your manager will tell you directly: "You are doing this wrong." This is not intended to hurt your feelings but to help you learn the job properly. In many other countries, people give less direct feedback, but in the Netherlands, it is a way to help each other and improve quality.
+
+---
 
 ## 2. Afspraken en Tijd (Appointments and Time)
 
-| Nederlands | English |
-| :--- | :--- |
-| **De Nederlandse Agenda**<br><br>Nederlanders plannen hun tijd vaak ver van tevoren, zowel voor werk als voor privézaken. Het is heel gebruikelijk om een **afspraak** te maken voor een bezoek aan vrienden of familie; spontaan langsgaan wordt niet altijd gewaardeerd omdat mensen vaak al andere plannen hebben. Als je een afspraak hebt, wordt er van je verwacht dat je **op tijd** bent. Als het je niet lukt om te komen, is het beleefd om dit zo snel mogelijk te laten weten en de afspraak af te zeggen of te verplaatsen. | **The Dutch Calendar**<br><br>Dutch people often plan their time far in advance, both for work and for private matters. It is very common to make an **appointment** for a visit to friends or family; dropping by spontaneously is not always appreciated because people often already have other plans. If you have an appointment, you are expected to be **on time**. If you are unable to come, it is polite to let them know as soon as possible and cancel or reschedule the appointment. |
-| **Zakelijke Afspraken**<br><br>Bij officiële instanties, artsen of de tandarts kun je bijna nooit zonder afspraak terecht. Zelfs als je veel pijn hebt, moet je eerst bellen om te overleggen wanneer er plek is. In Nederland werkt bijna alles "op afspraak". Dit zorgt voor structuur en voorkomt lange wachtrijen, maar het betekent ook dat je goed vooruit moet plannen. Als je te laat komt op een zakelijke afspraak, kan het zijn dat je niet meer geholpen kunt worden of dat je de kosten van de afspraak toch moet betalen. | **Business Appointments**<br><br>At official institutions, doctors, or the dentist, you can almost never visit without an appointment. Even if you are in a lot of pain, you must first call to discuss when there is an opening. In the Netherlands, almost everything works "by appointment." This provides structure and prevents long queues, but it also means you have to plan well ahead. If you are late for a business appointment, you may no longer be helped, or you may still have to pay the costs of the appointment. |
+### 🇳🇱 Nederlands
+**Plannen en de Agenda**
+
+Mensen in Nederland plannen hun tijd vaak ver van tevoren in een **agenda**. Ze weten precies wanneer ze gaan sporten of vrienden zien. Spontaan bij iemand langsgaan wordt niet altijd gewaardeerd; mensen zeggen dan vaak: "Nee, ik kan niet, ik heb al een andere **afspraak**." Men spreekt meestal een duidelijke plaats en tijd af en er wordt verwacht dat je **op tijd** bent. Als je een afspraak toch niet kunt nakomen, moet je die zo snel mogelijk afzeggen.
+
+### 🇬🇧 English
+**Planning and the Calendar**
+
+People in the Netherlands often plan their time far in advance in a **calendar** (agenda). They know exactly when they are going to exercise or see friends. Dropping by someone's house spontaneously is not always appreciated; people often say: "No, I can't, I already have another **appointment**." Usually, a clear place and time are agreed upon, and you are expected to be **on time**. If you cannot make an appointment after all, you must cancel it as soon as possible.
+
+---
+
+### 🇳🇱 Nederlands
+**Afspraken bij Instanties**
+
+Als je iemand wilt spreken op het werk, in de zorg (zoals de tandarts) of bij een officiële instantie, moet je bijna altijd eerst een afspraak maken. Zonder afspraak kunnen ze je vaak niet helpen, ook niet bij noodgevallen die niet levensbedreigend zijn. Bij de tandarts moet je bijvoorbeeld bellen voor een plekje, zelfs als je veel pijn hebt. Dit systeem zorgt voor structuur en voorkomt lange wachtrijen.
+
+### 🇬🇧 English
+**Appointments at Institutions**
+
+If you want to speak to someone at work, in healthcare (such as the dentist), or at an official institution, you almost always have to make an appointment first. Without an appointment, they often cannot help you, even in cases that are not life-threatening. For example, at the dentist, you have to call for a slot, even if you are in a lot of pain. This system provides structure and prevents long queues.
+
+---
 
 ## 3. Verenigingen en Vrijwilligerswerk (Associations and Volunteering)
 
-| Nederlands | English |
-| :--- | :--- |
-| **Lid worden van een Vereniging**<br><br>Veel Nederlanders zijn lid van een **vereniging**, zoals een sportclub, muziekvereniging of buurtvereniging. Dit is een belangrijke manier om nieuwe mensen te leren kennen en sociale contacten op te bouwen. Als lid betaal je jaarlijks **contributie** om de kosten van de vereniging te dekken. Verenigingen staan open voor iedereen, ongeacht leeftijd of achtergrond, en organiseren vaak gezellige activiteiten en open dagen voor nieuwe leden. | **Joining an Association**<br><br>Many Dutch people are members of an **association** (vereniging), such as a sports club, music club, or neighborhood association. This is an important way to meet new people and build social contacts. As a member, you pay an annual **membership fee** (contributie) to cover the costs of the association. Associations are open to everyone, regardless of age or background, and often organize social activities and open days for new members. |
-| **De Rol van Vrijwilligers**<br><br>In Nederland draaien verenigingen en veel maatschappelijke organisaties op **vrijwilligerswerk**. Dit is werk waarvoor je niet betaald krijgt, maar dat je doet omdat je het leuk vindt of omdat het goed is voor de gemeenschap. Bij een sportclub helpen ouders bijvoorbeeld vaak in de kantine, trainen ze jeugdteams of maaien ze het gras. Het wordt zeer gewaardeerd als je als lid ook je steentje bijdraagt als **vrijwilliger**. Het is bovendien een uitstekende manier om de taal te oefenen en geïntegreerd te raken in de Nederlandse samenleving. | **The Role of Volunteers**<br><br>In the Netherlands, associations and many social organizations run on **volunteer work**. This is work for which you are not paid, but which you do because you enjoy it or because it is good for the community. At a sports club, for example, parents often help in the canteen, train youth teams, or mow the grass. It is highly appreciated if you, as a member, also contribute as a **volunteer**. Moreover, it is an excellent way to practice the language and become integrated into Dutch society. |
+### 🇳🇱 Nederlands
+**Lid worden van een Vereniging**
 
-## 4. Sociale Gewoontes (Social Customs)
+Veel Nederlanders zijn lid van een **vereniging**, zoals een voetbalclub of een koor. Het is goed voor je sociale contacten en een geweldige manier om nieuwe mensen te leren kennen. Om lid te worden, betaal je elk jaar **contributie**. Iedereen is welkom: jong, oud, sportief of niet. Veel verenigingen hebben ook een open dag voor nieuwe leden waar je informatie kunt krijgen.
 
-| Nederlands | English |
-| :--- | :--- |
-| **Geboorte en Overlijden**<br><br>Wanneer er een baby is geboren, stuur je eerst een kaartje om de ouders te feliciteren. Je gaat niet zomaar langs; je wacht op een uitnodiging of vraagt wanneer je op **kraamvisite** mag komen. Bij een overlijden is het gebruikelijk om de nabestaanden te **condoleren**. Dit kan door een kaartje te sturen of persoonlijk je medeleven te betuigen. Vaak wordt er in een bericht of op een kaart geschreven: "Gecondoleerd en veel sterkte". Hoe je precies reageert, hangt af van hoe goed je de persoon kent. | **Birth and Death**<br><br>When a baby is born, you first send a card to congratulate the parents. You don't just drop by; you wait for an invitation or ask when you can come for a **maternity visit** (kraamvisite). In the event of a death, it is customary to **offer condolences** (condoleren) to the bereaved. This can be done by sending a card or personally expressing your sympathy. Often, a message or card will say: "Gecondoleerd en veel sterkte" (Condolences and much strength). Exactly how you respond depends on how well you know the person. |
+### 🇬🇧 English
+**Joining an Association**
+
+Many Dutch people are members of an **association** (vereniging), such as a football club or a choir. It is good for your social contacts and a great way to meet new people. To become a member, you pay an annual **membership fee** (contributie). Everyone is welcome: young, old, athletic or not. Many associations also have an open day for new members where you can get information.
+
+---
+
+### 🇳🇱 Nederlands
+**Vrijwilligerswerk: Samenhelpen**
+
+Bij een vereniging doet bijna iedereen aan **vrijwilligerswerk**. Dit is onbetaald werk dat je doet voor de club of de gemeenschap. Leden helpen bijvoorbeeld in de kantine, maaien het gras of trainen de jeugd. Het is gebruikelijk dat volwassen leden of ouders van kinderen een vaste taak hebben. Vrijwilligerswerk is heel gezellig en helpt je om sneller geïntegreerd te raken in de Nederlandse samenleving.
+
+### 🇬🇧 English
+**Volunteering: Helping Together**
+
+At an association, almost everyone does **volunteer work** (vrijwilligerswerk). This is unpaid work that you do for the club or the community. For example, members help in the canteen, mow the grass, or train the youth. It is common for adult members or parents of children to have a fixed task. Volunteering is very social and helps you become integrated into Dutch society more quickly.
+
+---
+
+## 4. Gelijkheid en Vrijheid (Equality and Freedom)
+
+### 🇳🇱 Nederlands
+**Iedereen mag zichzelf zijn**
+
+Nederland is een klein land met veel verschillen, maar de **gelijkheid** tussen mensen is erg belangrijk. Mannen en vrouwen hebben dezelfde rechten; ze kunnen allebei naar school en alle opleidingen en beroepen kiezen. Ook heeft iedereen de vrijheid om te kiezen met wie ze omgaan, welke religie ze hebben en welke kleding ze dragen. Het is normaal dat mensen van hetzelfde gender (homoseksualiteit) samenwonen, trouwen en kinderen krijgen. De **LHBTQI+** gemeenschap heeft dezelfde rechten als iedereen. Er bestaat dus niet "één soort Nederlander"; iedereen is uniek en mag zijn eigen manier van leven kiezen.
+
+### 🇬🇧 English
+**Everyone can be themselves**
+
+The Netherlands is a small country with many differences, but **equality** between people is very important. Men and women have the same rights; they can both go to school and choose any education or profession. Everyone also has the freedom to choose who they associate with, what religion they have, and what clothes they wear. It is normal for people of the same gender (homosexuality) to live together, marry, and have children. The **LGBTQI+** community has the same rights as everyone else. There is no such thing as "one kind of Dutch person"; everyone is unique and can choose their own way of life.
+
+---
+
+## 5. Sociale Gewoontes (Social Customs)
+
+### 🇳🇱 Nederlands
+**Geboorte en Overlijden**
+
+Bij de geboorte van een baby stuur je een kaartje om de ouders te feliciteren. Je gaat niet zomaar op bezoek; je wacht op een uitnodiging of vraagt wanneer je op **kraamvisite** mag komen, omdat de ouders vaak rust nodig hebben. Bij een overlijden is het gebruikelijk om de nabestaanden te **condoleren**. Je stuurt een kaartje of zegt persoonlijk: "Gecondoleerd en veel sterkte." Hoe je reageert, hangt af van hoe goed je de persoon kent; alleen bij goede vrienden ga je direct op bezoek of bel je meteen.
+
+### 🇬🇧 English
+**Birth and Death**
+
+When a baby is born, you send a card to congratulate the parents. You do not just drop by for a visit; you wait for an invitation or ask when you can come for a **maternity visit** (kraamvisite), as the parents often need rest. In the event of a death, it is customary to **offer condolences** (condoleren) to the bereaved. You send a card or say personally: "My condolences and I wish you much strength." How you respond depends on how well you know the person; only with close friends do you visit directly or call immediately.
+
+---
 
 ## Belangrijke Begrippen (Important Terms)
-| Nederlands | English | Definitie / Context |
-| :--- | :--- | :--- |
-| **Directheid** | **Directness** | Een manier van communiceren waarbij je eerlijk en duidelijk zegt wat je denkt. |
-| **Feedback** | **Feedback** | Reactie op iemands werk of gedrag, bedoeld om te helpen verbeteren. |
-| **Afspraak** | **Appointment** | Een vastgesteld tijdstip en plaats om iemand te ontmoeten of te spreken. |
-| **Contributie** | **Membership Fee** | Het jaarlijkse bedrag dat je betaalt om lid te zijn van een vereniging. |
-| **Vrijwilliger** | **Volunteer** | Iemand die onbetaald werk doet voor een ander of voor de samenleving. |
-| **Kraamvisite** | **Maternity Visit** | Een bezoek aan de ouders en de pasgeboren baby, meestal op afspraak. |
-| **Condoleren** | **Offer Condolences** | Je medeleven betuigen aan iemand die een naaste heeft verloren. |
-| **GFT** | **Organic Waste** | Afkorting voor Groente-, Fruit- en Tuinafval; moet apart ingeleverd worden. |
-| **Integratie** | **Integration** | Het proces van onderdeel worden van de Nederlandse samenleving. |
+
+- **Directheid** (Directness): Eerlijk en duidelijk zeggen wat je denkt of wilt.
+- **Feedback** (Feedback): Reactie op iemands werk of gedrag, bedoeld om te helpen verbeteren.
+- **Contributie** (Membership Fee): Het jaarlijkse bedrag dat je betaalt om lid te zijn van een vereniging.
+- **Vrijwilliger** (Volunteer): Iemand die onbetaald werk doet voor een ander of voor de samenleving.
+- **Kraamvisite** (Maternity Visit): Een bezoek aan de ouders en de pasgeboren baby, meestal op afspraak.
+- **Condoleren** (Offering Condolences): Je medeleven betuigen aan iemand die een naaste heeft verloren.
+- **Gelijkheid** (Equality): Het principe dat iedereen dezelfde rechten en kansen heeft, ongeacht geslacht, afkomst of geaardheid.
+- **LHBTQI+** (LGBTQI+): Afkorting voor lesbisch, homoseksueel, biseksueel, transgender, intersekse en queer personen.
+- **Bevrijdingsdag** (Liberation Day): Feestdag op 5 mei om het einde van de Tweede Wereldoorlog te vieren.
+- **Dodenherdenking** (Remembrance Day): Op 4 mei herdenken we de slachtoffers van de oorlog met twee minuten stilte om 20:00 uur.
+- **Carnaval** (Carnival): Een feest in februari/maart waarbij mensen zich verkleden en feestvieren.
+- **Keti Koti** (Keti Koti): Viering van de afschaffing van de slavernij op 1 juli.
