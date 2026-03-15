@@ -1,7 +1,7 @@
 # Thema 6: Instanties (Theme 6: Agencies and Institutions)
 
 In Nederland heb je te maken met veel verschillende organisaties en regels. In dit thema leer je over contact met de overheid, de gemeente, verzekeringen, belastingen en hoe je Nederlander kunt worden.
-<small>(In the Netherlands, you deal with many different organizations and rules. In this theme, you will learn about contact with the government, the municipality, insurance, taxes, and how you can become a Dutch citizen.)</small>
+(In the Netherlands, you deal with many different organizations and rules. In this theme, you will learn about contact with the government, the municipality, insurance, taxes, and how you can become a Dutch citizen.)
 
 ## Contact met de Overheid (Contact with the Government)
 
@@ -13,13 +13,12 @@ Contact met de overheid gaat vaak digitaal via een computer of app. Je hebt hier
 Iedereen die legaal in Nederland woont, heeft een **Burgerservicenummer (bsn)**. Dit unieke nummer staat op je paspoort of ID-kaart en heb je nodig voor het ziekenhuis, je werk of bij de gemeente. Je hebt recht op **privacy**: de overheid mag alleen gegevens gebruiken die echt nodig zijn en mag deze niet zomaar delen. Je mag altijd vragen om jouw **dossier** in te zien.
 
 ### 🇬🇧 English
-<small>
+
 **Digital Contact**
 Contact with the government often happens digitally via a computer or app. You need a **DigiD** for this. This is a personal account that allows you to log in securely to government websites. Your DigiD is strictly personal; never share it with others. If you need help with digital matters, you can go to a **Digital Government Information Point (IDO)** in the library.
 
 **BSN and Privacy**
 Everyone living legally in the Netherlands has a **Citizen Service Number (bsn)**. This unique number is on your passport or ID card and you need it for the hospital, your work, or at the municipality. You have the right to **privacy**: the government may only use data that is truly necessary and may not simply share it. You can always ask to view your **file**.
-</small>
 
 ---
 
@@ -39,7 +38,7 @@ Vanaf 14 jaar is iedereen in Nederland verplicht een **identiteitsbewijs** te he
 Voor sommige zaken heb je een **vergunning** nodig, zoals voor parkeren in bepaalde wijken of het kappen van een boom. Ook betaal je **gemeentelijke belastingen**, zoals de **afvalstoffenheffing** en de **rioolheffing**. Mensen met een laag inkomen kunnen soms **kwijtschelding** aanvragen, zodat ze de belasting niet hoeven te betalen.
 
 ### 🇬🇧 English
-<small>
+
 **Identification**
 From the age of 14, everyone in the Netherlands is required to have an **identity document**. This can be a **passport**, **identity card (ID card)**, or **driver's license**. These documents are usually valid for ten years. You apply for them at the municipality where you live.
 
@@ -51,7 +50,6 @@ From the age of 14, everyone in the Netherlands is required to have an **identit
 
 **Permits and Taxes**
 For some matters you need a **permit**, such as for parking in certain neighborhoods or cutting down a tree. You also pay **municipal taxes**, such as the **waste collection fee** and the **sewerage fee**. People with a low income can sometimes apply for an **exemption (kwijtschelding)** so they do not have to pay the tax.
-</small>
 
 ---
 
@@ -70,7 +68,7 @@ Als je Nederlander wilt worden via **naturalisatie**, moet je aan voorwaarden vo
 5.  Je moet meestal **afstand doen** van je huidige nationaliteit.
 
 ### 🇬🇧 English
-<small>
+
 **Residence Permit**
 The **Immigration and Naturalisation Service (IND)** decides who may live in the Netherlands. Depending on your situation (family, work, study, or asylum), you need a **residence permit**. Sometimes you must first apply for an **mvv (authorization for temporary stay)** in your own country and take the **basic integration exam** for that.
 
@@ -81,7 +79,6 @@ If you want to become Dutch through **naturalization**, you must meet conditions
 3.  If the application is approved, the King signs it.
 4.  You attend the **naturalization ceremony** and make the **declaration of commitment**.
 5.  You usually have to **renounce** your current nationality.
-</small>
 
 ---
 
@@ -100,7 +97,7 @@ Mensen met een laag inkomen kunnen een **toeslag** krijgen van de **Dienst Toesl
 Je schat zelf je inkomen in. Na een jaar wordt berekend of je te veel of te weinig hebt gekregen.
 
 ### 🇬🇧 English
-<small>
+
 **Insurance**
 **Health insurance** is mandatory for everyone aged 18 and older. The **basic insurance** covers the most important care, such as the GP. You pay a **premium** every month and have a **deductible (eigen risico)** (the first part of the costs that you pay yourself). Other mandatory insurances are **car insurance** (for car owners) and sometimes **building insurance** (for homeowners). Useful additional insurances are **home contents insurance** (for items in the house) and **liability insurance** (if you accidentally cause damage to someone else).
 
@@ -111,7 +108,6 @@ People with a low income can receive an **allowance (toeslag)** from the **Benef
 *   **Childcare allowance**: For the costs of childcare.
 *   **Child-related budget**: An additional contribution for children up to 18 years old.
 You estimate your income yourself. After a year, it is calculated whether you received too much or too little.
-</small>
 
 ---
 
@@ -125,43 +121,42 @@ De politie zorgt voor veiligheid. Er is de nationale politie en de regionale pol
 Heb je een probleem met een instantie? Je kunt binnen zes weken **bezwaar maken**. Als dat niet helpt, kun je een klacht indienen of naar de **Nationale Ombudsman** gaan. Voor gratis juridisch advies kun je terecht bij het **Juridisch Loket** of een **rechtswinkel**. Als je een **advocaat** nodig hebt maar weinig geld verdient, betaalt de overheid mee (de **eigen bijdrage** is dan laag).
 
 ### 🇬🇧 English
-<small>
+
 **The Police**
 The police ensure safety. There is the national police and the regional police. The **neighborhood police officer (wijkagent)** is the contact point in your neighborhood. In an **emergency** (danger, injuries, burglary in progress), call **112**. For non-emergencies, call **0900-8844**. You can **file a report (aangifte doen)** for a **crime**, such as theft.
 
 **Legal Help**
 Do you have a problem with an agency? You can **file an objection (bezwaar maken)** within six weeks. If that doesn't help, you can file a complaint or go to the **National Ombudsman**. For free legal advice, you can go to the **Juridisch Loket** or a **legal aid clinic (rechtswinkel)**. If you need a **lawyer** but earn little money, the government will contribute to the costs (your **own contribution** will then be low).
-</small>
 
 ---
 
 ## Belangrijke Begrippen (Important Terms)
 
-- **Aangifte doen** (To file a report): Een officiële melding maken bij de politie of gemeente / <small>To make an official report to the police or municipality.</small>
-- **Aansprakelijkheid** (Liability): Verantwoordelijk zijn voor schade die je veroorzaakt / <small>Being responsible for damage you cause.</small>
-- **Advocaat** (Lawyer): Iemand die je helpt bij juridische zaken en de rechter / <small>Someone who helps you with legal matters and the judge.</small>
-- **Afstand doen van** (To renounce): Verklaren dat je je nationaliteit niet meer wilt / <small>To declare that you no longer want your nationality.</small>
-- **Afvalstoffenheffing** (Waste collection fee): Belasting voor het ophalen van vuilnis / <small>Tax for collecting garbage.</small>
-- **Basisverzekering** (Basic insurance): De verplichte verzekering voor zorg / <small>The mandatory insurance for healthcare.</small>
-- **Beslistermijn** (Decision period): De tijd waarin de IND een besluit moet nemen / <small>The time in which the IND must make a decision.</small>
-- **Bezwaar maken** (To file an objection): Officieel laten weten dat je het niet eens bent met een besluit / <small>To officially let it be known that you disagree with a decision.</small>
-- **BSN (Burgerservicenummer)** (Citizen Service Number): Je persoonlijke nummer bij de overheid / <small>Your personal number with the government.</small>
-- **Dienst Toeslagen** (Benefits Service): De organisatie die toeslagen regelt / <small>The organization that regulates allowances.</small>
-- **DigiD** (Digital Identity): Je persoonlijke inlogcode voor de overheid / <small>Your personal login code for the government.</small>
-- **Eigen bijdrage** (Own contribution): Het deel van de kosten dat je zelf moet betalen / <small>The part of the costs that you have to pay yourself.</small>
-- **Eigen risico** (Deductible): Het eerste deel van je zorgkosten dat je zelf betaalt / <small>The first part of your healthcare costs that you pay yourself.</small>
-- **Erkennen** (To acknowledge): Juridisch verklaren dat je de ouder bent van een kind / <small>To legally declare that you are the parent of a child.</small>
-- **Getuige** (Witness): Iemand die aanwezig is bij een gebeurtenis, zoals een huwelijk / <small>Someone who is present at an event, such as a marriage.</small>
-- **IDO (Informatiepunt Digitale Overheid)** (Digital Government Information Point): Plek waar je hulp krijgt met websites van de overheid / <small>Place where you get help with government websites.</small>
-- **IND (Immigratie- en Naturalisatiedienst)** (Immigration and Naturalisation Service): De organisatie die beslist over verblijf in Nederland / <small>The organization that decides on residence in the Netherlands.</small>
-- **Instantie** (Agency/Institution): Een afdeling of instelling van de overheid / <small>A department or institution of the government.</small>
-- **Juridisch Loket** (Legal Desk): Organisatie die gratis juridisch advies geeft / <small>Organization that provides free legal advice.</small>
-- **Kwijtschelding** (Exemption): Vrijstelling van het betalen van belasting / <small>Exemption from paying tax.</small>
-- **Naturalisatie** (Naturalization): Het proces om Nederlander te worden / <small>The process of becoming a Dutch citizen.</small>
-- **Nationale Ombudsman** (National Ombudsman): Onafhankelijke organisatie die klachten over de overheid onderzoekt / <small>Independent organization that investigates complaints about the government.</small>
-- **Premie** (Premium): Het bedrag dat je per maand betaalt voor een verzekering / <small>The amount you pay per month for insurance.</small>
-- **Toeslag** (Allowance/Subsidy): Geld van de overheid om kosten te kunnen betalen / <small>Money from the government to be able to pay costs.</small>
-- **Verblijfsvergunning** (Residence permit): Toestemming om in Nederland te wonen / <small>Permission to live in the Netherlands.</small>
-- **Vergunning** (Permit): Officiële toestemming om iets te doen / <small>Official permission to do something.</small>
-- **Verklaring van verbondenheid** (Declaration of commitment): Verklaring die je aflegt bij de naturalisatieceremonie / <small>Declaration you make at the naturalization ceremony.</small>
-- **Wijkagent** (Neighborhood police officer): Politieagent die verantwoordelijk is voor een bepaalde wijk / <small>Police officer responsible for a specific neighborhood.</small>
+- **Aangifte doen** (To file a report): Een officiële melding maken bij de politie of gemeente / To make an official report to the police or municipality.
+- **Aansprakelijkheid** (Liability): Verantwoordelijk zijn voor schade die je veroorzaakt / Being responsible for damage you cause.
+- **Advocaat** (Lawyer): Iemand die je helpt bij juridische zaken en de rechter / Someone who helps you with legal matters and the judge.
+- **Afstand doen van** (To renounce): Verklaren dat je je nationaliteit niet meer wilt / To declare that you no longer want your nationality.
+- **Afvalstoffenheffing** (Waste collection fee): Belasting voor het ophalen van vuilnis / Tax for collecting garbage.
+- **Basisverzekering** (Basic insurance): De verplichte verzekering voor zorg / The mandatory insurance for healthcare.
+- **Beslistermijn** (Decision period): De tijd waarin de IND een besluit moet nemen / The time in which the IND must make a decision.
+- **Bezwaar maken** (To file an objection): Officieel laten weten dat je het niet eens bent met een besluit / To officially let it be known that you disagree with a decision.
+- **BSN (Burgerservicenummer)** (Citizen Service Number): Je persoonlijke nummer bij de overheid / Your personal number with the government.
+- **Dienst Toeslagen** (Benefits Service): De organisatie die toeslagen regelt / The organization that regulates allowances.
+- **DigiD** (Digital Identity): Je persoonlijke inlogcode voor de overheid / Your personal login code for the government.
+- **Eigen bijdrage** (Own contribution): Het deel van de kosten dat je zelf moet betalen / The part of the costs that you have to pay yourself.
+- **Eigen risico** (Deductible): Het eerste deel van je zorgkosten dat je zelf betaalt / The first part of your healthcare costs that you pay yourself.
+- **Erkennen** (To acknowledge): Juridisch verklaren dat je de ouder bent van een kind / To legally declare that you are the parent of a child.
+- **Getuige** (Witness): Iemand die aanwezig is bij een gebeurtenis, zoals een huwelijk / Someone who is present at an event, such as a marriage.
+- **IDO (Informatiepunt Digitale Overheid)** (Digital Government Information Point): Plek waar je hulp krijgt met websites van de overheid / Place where you get help with government websites.
+- **IND (Immigratie- en Naturalisatiedienst)** (Immigration and Naturalisation Service): De organisatie die beslist over verblijf in Nederland / The organization that decides on residence in the Netherlands.
+- **Instantie** (Agency/Institution): Een afdeling of instelling van de overheid / A department or institution of the government.
+- **Juridisch Loket** (Legal Desk): Organisatie die gratis juridisch advies geeft / Organization that provides free legal advice.
+- **Kwijtschelding** (Exemption): Vrijstelling van het betalen van belasting / Exemption from paying tax.
+- **Naturalisatie** (Naturalization): Het proces om Nederlander te worden / The process of becoming a Dutch citizen.
+- **Nationale Ombudsman** (National Ombudsman): Onafhankelijke organisatie die klachten over de overheid onderzoekt / Independent organization that investigates complaints about the government.
+- **Premie** (Premium): Het bedrag dat je per maand betaalt voor een verzekering / The amount you pay per month for insurance.
+- **Toeslag** (Allowance/Subsidy): Geld van de overheid om kosten te kunnen betalen / Money from the government to be able to pay costs.
+- **Verblijfsvergunning** (Residence permit): Toestemming om in Nederland te wonen / Permission to live in the Netherlands.
+- **Vergunning** (Permit): Officiële toestemming om iets te doen / Official permission to do something.
+- **Verklaring van verbondenheid** (Declaration of commitment): Verklaring die je aflegt bij de naturalisatieceremonie / Declaration you make at the naturalization ceremony.
+- **Wijkagent** (Neighborhood police officer): Politieagent die verantwoordelijk is voor een bepaalde wijk / Police officer responsible for a specific neighborhood.
