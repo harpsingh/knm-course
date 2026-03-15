@@ -10,5 +10,7 @@ This document provides an overview of all the themes covered in the KNM course.
     *   Social rules, communication, and Dutch culture.
 3.  **[Gezondheid (Health)](Gezondheid.md)**
     *   The Dutch healthcare system, GPs, and insurance.
+7.  **[Nederland vroeger en nu (The Netherlands Past and Present)](Nederland_vroeger_en_nu.md)**
+    *   Dutch history, geography, and important events like WWII.
 8.  **[Politiek en rechtspraak (Politics and Judiciary)](Politiek_en_rechtspraak.md)**
     *   The Constitution, democracy, elections, and the role of the King.
